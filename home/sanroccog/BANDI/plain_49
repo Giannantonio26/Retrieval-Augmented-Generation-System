@@ -1,0 +1,2157 @@
+<doc id="49" url="?curid=49" title="C:\Users\lazya\Desktop\Tesi\Preprocess\bandi_cpv\7712047682\CSA_CED_2019.pdf" >
+Capitolato Speciale d’Appalto – Affidamento della fornitura di un sistema informativo integrato e dei servizi 
+
+connessi alla gestione del CED dell’A.R.C.A. Nord Salento di Brindisi. 
+
+_________________________________________ 
+
+1/25 
+
+ 
+
+ 
+ARCA NORD SALENTO 
+
+Via Casimiro 21 – 72100 Brindisi 
+
+ 
+
+   
+
+ 
+
+CAPITOLATO SPECIALE D’APPALTO 
+
+AFFIDAMENTO DELLA FORNITURA DI UN SISTEMA INFORMATIVO INTEGRATO E DEI SERVIZI CONNESSI ALLA 
+
+GESTIONE DEL CED DELL’A.R.C.A. NORD SALENTO DI BRINDISI PER LA DURATA DI 6 ANNI. 
+
+ 
+
+Finanziamento: Fondi propri di bilancio. 
+
+ 
+
+ 
+
+ 
+
+Importo forniture e servizi: € 470.000,00 oltre IVA 
+
+ 
+
+Oneri per la sicurezza pari a zero. 
+
+ 
+
+ 
+
+  
+
+ 
+
+ 
+
+ 
+
+  IL RUP 
+
+  F.to Ing. Amilcare LICASTRO 
+
+ 
+
+ 
+
+  
+
+ 
+
+ 
+
+ 
+
+Rev Data Descrizione Redatto Verificato Approvato 
+
+0 Febbraio 2019 Prima emissione Ing. A. LICASTRO   
+
+      
+
+      
+
+  
+
+
+
+Capitolato Speciale d’Appalto – Affidamento della fornitura di un sistema informativo integrato e dei servizi 
+
+connessi alla gestione del CED dell’A.R.C.A. Nord Salento di Brindisi. 
+
+_________________________________________ 
+
+2/25 
+
+ 
+
+Sommario 
+PARTE I – DISPOSIZIONI AMMINISTRATIVE REGOLANTI L’APPALTO ................................................................. 4 
+
+CAPO I - OGGETTO ED AMMONTARE DELL'APPALTO, DESCRIZIONE, FORMA E PRINCIPALI DIMENSIONI DELLE 
+
+OPERE ................................................................................................................................................................ 4 
+
+Art. 1. Oggetto dell’appalto .......................................................................................................................... 4 
+
+Art. 2. Forma e ammontare dell’appalto ...................................................................................................... 6 
+
+CAPO II - DISPOSIZIONI PARTICOLARI RIGUARDANTI L’APPALTO ..................................................................... 6 
+
+Art. 3. Documenti che fanno parte del contratto......................................................................................... 6 
+
+Art. 4. Garanzia definitiva ............................................................................................................................. 6 
+
+Art. 5. Subappalto ......................................................................................................................................... 7 
+
+Art. 6. Trattamento dei lavoratori ................................................................................................................ 7 
+
+Art. 7. Consegna del servizio ........................................................................................................................ 8 
+
+Art. 8. Durata del servizio – Scadenze intermedie – Penali. ......................................................................... 8 
+
+8.1 Durata del servizio ............................................................................................................................. 8 
+
+8.2 Penali ................................................................................................................................................. 8 
+
+Art. 9. Programma operativo del servizio .................................................................................................... 9 
+
+Art. 10. Liquidazione dei corrispettivi......................................................................................................... 9 
+
+10.1 Anticipazione ..................................................................................................................................... 9 
+
+10.2 Pagamenti .......................................................................................................................................... 9 
+
+Art. 11. Termini per il collaudo o per l’accertamento della regolare esecuzione ...................................... 9 
+
+Art. 12. “Vendor lock in”........................................................................................................................... 10 
+
+CAPO III - DISCIPLINA DEL CONTRATTO E MODALITÀ DI SOLUZIONE DELLE CONTROVERSIE ......................... 10 
+
+Art. 13. Tracciabilità dei flussi finanziari ................................................................................................... 10 
+
+Art. 14. Cessione dei crediti derivanti dal contratto ................................................................................ 10 
+
+Art. 15. Cessioni di contratti ..................................................................................................................... 11 
+
+Art. 16. Risoluzione del contratto ............................................................................................................. 11 
+
+Art. 17. Arbitrato ...................................................................................................................................... 11 
+
+Art. 18. Controversie ................................................................................................................................ 12 
+
+Art. 19. Sicurezza, privacy e riservatezza.................................................................................................. 12 
+
+PARTE II – DISPOSIZIONI TECNICHE REGOLANTI L’APPALTO ........................................................................... 13 
+
+Art. 20. Requisiti generali di sistema ........................................................................................................ 13 
+
+20.1 Caratteristiche generali della fornitura software ............................................................................ 13 
+
+20.2 Requisiti generali di sistema (requisiti minimi obbligatori) ............................................................. 13 
+
+20.3 Requisiti minimi dell’infrastruttura tecnologica .............................................................................. 14 
+
+
+
+Capitolato Speciale d’Appalto – Affidamento della fornitura di un sistema informativo integrato e dei servizi 
+
+connessi alla gestione del CED dell’A.R.C.A. Nord Salento di Brindisi. 
+
+_________________________________________ 
+
+3/25 
+
+ 
+
+20.4 Moduli da fornire ............................................................................................................................. 15 
+
+20.4.1 Portale istituzionale dell’Agenzia ............................................................................................ 15 
+
+20.4.2 Protocollo informatico ............................................................................................................. 16 
+
+20.4.3 Atti decisionali ......................................................................................................................... 17 
+
+20.4.4 Ragioneria ................................................................................................................................ 17 
+
+20.4.5 Personale ................................................................................................................................. 19 
+
+20.4.6 Inquilinato ................................................................................................................................ 20 
+
+20.4.7 Patrimonio / Manutenzioni ..................................................................................................... 21 
+
+20.5 Protezione antivirus ......................................................................................................................... 22 
+
+20.6 Integrazione con altri sistemi informativi ........................................................................................ 22 
+
+20.7 Documentale ................................................................................................................................... 22 
+
+20.8 Conservazione sostitutiva ................................................................................................................ 23 
+
+20.9 Servizi di conversione, assistenza e manutenzione ......................................................................... 23 
+
+20.10 Recupero e conversione banche dati .......................................................................................... 23 
+
+20.11 Copertura e presidio on site dei servizi ....................................................................................... 23 
+
+Art. 21. Requisiti generali della fornitura ................................................................................................. 24 
+
+21.1 Livelli di servizio richiesti ................................................................................................................. 24 
+
+21.2 Formazione del personale dell’Agenzia ........................................................................................... 25 
+
+21.3 Protezione dei dati personali ........................................................................................................... 25 
+
+
+
+Capitolato Speciale d’Appalto – Affidamento della fornitura di un sistema informativo integrato e dei servizi 
+
+connessi alla gestione del CED dell’A.R.C.A. Nord Salento di Brindisi. 
+
+_________________________________________ 
+
+4/25 
+
+ 
+
+PARTE I – DISPOSIZIONI AMMINISTRATIVE REGOLANTI L’APPALTO 
+
+CAPO I - OGGETTO ED AMMONTARE DELL'APPALTO, DESCRIZIONE, FORMA E PRINCIPALI 
+
+DIMENSIONI DELLE OPERE 
+
+Art. 1. Oggetto dell’appalto 
+Costituisce oggetto del presente appalto la fornitura di un sistema informativo integrato e dei servizi connessi 
+
+alla gestione del CED dell’ARCA Nord di Brindisi nonché la manutenzione, l’assistenza, l’erogazione di servizi 
+
+evolutivi del Sistema Informativo Integrato. 
+
+I servizi, connessi alla gestione del CED, hanno la finalità principale di garantire il supporto tecnico all’Agenzia 
+
+per la corretta gestione dei sistemi hardware e software presenti ed il supporto progettuale per l’evoluzione 
+
+del sistema nonché la risoluzione delle principali problematiche di carattere informatico dell’Agenzia. 
+
+L’Arca Nord Salento attribuisce particolare rilevanza alle funzionalità espresse dagli applicativi proposti. A 
+
+tale scopo è fatta esplicita richiesta alle società offerenti di descrivere in dettaglio le funzionalità svolte dai 
+
+singoli moduli applicativi proposti.  
+
+L’impresa appaltatrice dovrà coordinare tutte le attività gestionali del CED attraverso la messa a disposizione 
+
+di software e staff specializzato con comprovata esperienza in materia di servizi all’inquilinato, al patrimonio 
+
+immobiliare residenziale pubblico ed alla Pubblica Amministrazione in generale. 
+
+In particolare l’appaltatore, al fine del raggiungimento degli obiettivi dell'Agenzia, dovrà garantire la fornitura 
+
+e l’espletamento delle seguenti attività oltre a quant'altro indicato nel presente capitolato: 
+
+a) Fornitura in uso di un software integrato atto alla gestione informatizzata del: 
+
+ Portale internet istituzionale dell’Agenzia; 
+
+ Protocollo Informatico; 
+
+ Atti Decisionali; 
+
+ Ragioneria; 
+
+ Personale; 
+
+ Inquilinato; 
+
+ Patrimonio / Manutenzioni; 
+
+ Documentale e Conservazione Sostitutiva. 
+
+Questo progetto darà vita ad una struttura organizzativa e tecnologica, in grado di dare più efficienza 
+
+all’azione amministrativa e di conseguenza erogare più servizi all’utenza. 
+
+L’intera fornitura dovrà risultare conforme ai requisiti descritti nel presente documento. Il concorrente dovrà 
+
+descrivere dettagliatamente, nella propria Offerta Tecnica, le caratteristiche dei software ed annessi servizi, 
+
+nel rispetto dei requisiti illustrati. 
+
+Il concorrente dovrà inoltre prevedere e descrivere qualunque altro elemento di espandibilità dei software 
+
+ritenga necessario per il dimensionamento dell’offerta tecnica, comprese eventuali caratteristiche 
+
+migliorative purché inerenti alle funzionalità richieste. 
+
+ 
+
+In estrema sintesi il nuovo sistema di gestione informatico dovrà essere costituito da un’unica piattaforma 
+
+integrata capace di assolvere agli adempimenti di tutti i settori di attività dell’Agenzia, con accessi 
+
+differenziati in base agli ambiti di competenza operanti su un’unica banca dati. Il sistema inoltre dovrà 
+
+
+
+Capitolato Speciale d’Appalto – Affidamento della fornitura di un sistema informativo integrato e dei servizi 
+
+connessi alla gestione del CED dell’A.R.C.A. Nord Salento di Brindisi. 
+
+_________________________________________ 
+
+5/25 
+
+ 
+
+essere in grado di importare e rendere fruibili le informazioni provenienti da banche dati esterne messe a 
+
+disposizione da altri enti istituzionali (Agenzia delle Entrate, Agenzia del Territorio, INPS, INAIL, ecc.). 
+
+Per questa Agenzia riveste un’importanza strategica avere una gestione “dinamica” delle informazioni 
+
+inerenti il patrimonio immobiliare e l’anagrafica degli assegnatari, che dovranno essere continuamente 
+
+confrontati con i dati messi a disposizione dagli altri enti istituzionali, al fine di conseguire un alto livello di 
+
+automazione dei procedimenti di accertamento dei canoni e delle morosità, della verifica del 
+
+mantenimento dei requisiti reddituali di assegnazione di ciascun inquilino, secondo le norme vigenti in 
+
+materia. 
+
+ 
+
+ 
+ 
+
+b) Gestione operativa del centro elaborazione dati: 
+
+ help desk agli uffici sia telefonico che informatico (assistenza hardware e software di base); 
+
+ monitoraggio del sistema; 
+
+ gestione delle postazioni di lavoro con aggiunta, rimozione ed aggiornamento;  
+
+ proposta di soluzioni in materia di e-government; 
+
+ attività standard di configurazione ed aggiornamento periodico del sistema; 
+
+ assistenza al personale in servizio per tutto ciò che riguarda l’informatizzazione dell’Agenzia, 
+
+concretizzata con la presenza quotidiana, a proprio carico, di una unità lavorativa presso la sede 
+
+dell’Arca Nord Salento. 
+
+ adeguamento del sistema informatico, ed assistenza in tale fase all’Agenzia in particolare per quanto 
+
+concerne: 
+
+
+
+Capitolato Speciale d’Appalto – Affidamento della fornitura di un sistema informativo integrato e dei servizi 
+
+connessi alla gestione del CED dell’A.R.C.A. Nord Salento di Brindisi. 
+
+_________________________________________ 
+
+6/25 
+
+ 
+
+ Amministrazione Trasparente 
+
+ Anticorruzione 
+
+ Conservazione Sostitutiva 
+
+ Fatturazione Elettronica 
+
+ Infrastrutture smart 
+
+ Disaster Recovery 
+
+c) percorso di formazione dedicato, della durata di un anno, che dovrà permettere agli operatori di 
+
+raggiungere la completa padronanza degli strumenti disponibili. 
+
+Art. 2. Forma e ammontare dell’appalto 
+Il presente appalto è dato a corpo. 
+
+ 
+
+L'importo complessivo dell’appalto ammonta ad € 470.000,00 (euro quattrocentosettantamila/00), oltre IVA. 
+
+ 
+
+L’assunzione dell’appalto da parte dell’Impresa implica, per essa, la conoscenza perfetta di tutte le norme 
+
+generali e particolari che lo regolano; di essere perfettamente a conoscenza ed edotta di tutte le circostanze 
+
+che possono aver influito sul giudizio di essa stessa Impresa circa la convenienza di assumere il servizio anche 
+
+in rapporto al ribasso offerto. 
+
+CAPO II - DISPOSIZIONI PARTICOLARI RIGUARDANTI L’APPALTO 
+
+Art. 3. Documenti che fanno parte del contratto 
+Fanno parte integrante del contratto d'appalto: 
+
+- D. Lgs n. 50/2016, e ss. mm. ii., e tutta la legislazione e normativa nazionale, comunitaria e regionale, 
+
+in quanto applicabili; 
+
+- il presente Capitolato Speciale d’Appalto; 
+
+- la relazione tecnico-illustrativa; 
+
+- il cronoprogramma; 
+
+- il bando di gara; 
+
+- il disciplinare di gara 
+
+- lo schema di contratto d’appalto. 
+
+Qualora si riscontrassero discordanze fra gli elaborati di cui sopra, varranno le disposizioni più favorevoli alla 
+
+Stazione Appaltante, accertate dal Responsabile del Procedimento. 
+
+Art. 4. Garanzia definitiva 
+L'appaltatore per la sottoscrizione del contratto deve costituire una garanzia, denominata "garanzia 
+
+definitiva" a sua scelta sotto forma di cauzione o fideiussione con le modalità di cui all'art. 93 commi 2 e 3 
+
+del D. Lgs.50/16, pari al 10 per cento dell'importo contrattuale. In caso di aggiudicazione con ribassi superiori 
+
+al dieci per cento la garanzia da costituire è aumentata di tanti punti percentuali quanti sono quelli eccedenti 
+
+il 10 per cento. Ove il ribasso sia superiore al venti per cento, l'aumento è di due punti percentuali per ogni 
+
+punto di ribasso superiore al venti per cento. La cauzione è prestata a garanzia dell'adempimento di tutte le 
+
+obbligazioni del contratto e del risarcimento dei danni derivanti dall'eventuale inadempimento delle 
+
+obbligazioni stesse, nonché a garanzia del rimborso delle somme pagate in più all'esecutore rispetto alle 
+
+
+
+Capitolato Speciale d’Appalto – Affidamento della fornitura di un sistema informativo integrato e dei servizi 
+
+connessi alla gestione del CED dell’A.R.C.A. Nord Salento di Brindisi. 
+
+_________________________________________ 
+
+7/25 
+
+ 
+
+risultanze della liquidazione finale, salva comunque la risarcibilità del maggior danno verso l'appaltatore. La 
+
+garanzia cessa di avere effetto solo alla data di emissione del certificato di collaudo provvisorio o del 
+
+certificato di regolare esecuzione. La stazione appaltante può richiedere al soggetto aggiudicatario la 
+
+reintegrazione della garanzia ove questa sia venuta meno in tutto o in parte. 
+
+Le stazioni appaltanti hanno il diritto di valersi della cauzione, nei limiti dell'importo massimo garantito, per 
+
+l'eventuale maggiore spesa sostenuta per il completamento dei lavori nel caso di risoluzione del contratto 
+
+disposta in danno dell'esecutore e hanno il diritto di valersi della cauzione per provvedere al pagamento di 
+
+quanto dovuto dall'esecutore per le inadempienze derivanti dalla inosservanza di norme e prescrizioni dei 
+
+contratti collettivi, delle leggi e dei regolamenti sulla tutela, protezione, assicurazione, assistenza e sicurezza 
+
+fisica dei lavoratori comunque presenti in cantiere o nei luoghi dove viene prestato il servizio nei casi di 
+
+appalti di servizi. Le stazioni appaltanti possono incamerare la garanzia per provvedere al pagamento di 
+
+quanto dovuto dal soggetto aggiudicatario per le inadempienze derivanti dalla inosservanza di norme e 
+
+prescrizioni dei contratti collettivi, delle leggi e dei regolamenti sulla tutela, protezione, assicurazione, 
+
+assistenza e sicurezza fisica dei lavoratori addetti all'esecuzione dell'appalto. 
+
+La garanzia, di cui al comma 1 dell’art. 103, è progressivamente svincolata a misura dell'avanzamento 
+
+dell'esecuzione, nel limite massimo dell'80 per cento dell'iniziale importo garantito. L'ammontare residuo 
+
+della cauzione definitiva deve permanere fino alla data di emissione del certificato di collaudo provvisorio o 
+
+del certificato di regolare esecuzione, o comunque fino a dodici mesi dalla data di ultimazione dei lavori 
+
+risultante dal relativo certificato. Lo svincolo è automatico, senza necessità di nulla osta del committente, 
+
+con la sola condizione della preventiva consegna all'istituto garante, da parte dell'appaltatore o del 
+
+concessionario, degli stati di avanzamento dei lavori o di analogo documento, in originale o in copia autentica, 
+
+attestanti l'avvenuta esecuzione. Sono nulle le pattuizioni contrarie o in deroga. Il mancato svincolo nei 
+
+quindici giorni dalla consegna degli stati di avanzamento o della documentazione analoga costituisce 
+
+inadempimento del garante nei confronti dell'impresa per la quale la garanzia è prestata. 
+
+Art. 5. Subappalto 
+Per il subappalto si applicano le disposizioni vigenti in materia con particolare riferimento all’art.106 del 
+
+D.Lgs.50/2016 e ss.mm.ii. 
+
+Art. 6. Trattamento dei lavoratori 
+L’Appaltatore è obbligato ad osservare le norme e prescrizioni dei contratti collettivi, delle leggi e dei 
+
+regolamenti sulla tutela, protezione, assicurazione e assistenza dei lavoratori. 
+
+L’impresa appaltatrice si obbliga, altresì, ad applicare il contratto o gli accordi medesimi, anche dopo la 
+
+scadenza e fino alla loro sostituzione, e, se cooperative, anche nei rapporti con soci. 
+
+I suddetti obblighi vincolano l’Impresa appaltatrice, anche se non sia aderente alle associazioni stipulanti o 
+
+se receda da esse, e ciò indipendentemente dalla natura industriale o artigiana, dalla struttura, dalla 
+
+dimensione dell’Impresa stessa e da ogni altra sua qualificazione giuridica, economica o sindacale. 
+
+L’Impresa appaltatrice è responsabile in solido, nei confronti della Stazione appaltante, dell’osservanza delle 
+
+norme anzidette da parte degli eventuali subappaltatori nei confronti dei loro dipendenti. 
+
+Il fatto che il subappalto non sia stato autorizzato, non esime l’Impresa appaltatrice dalla responsabilità di 
+
+cui al comma precedente e ciò senza pregiudizio degli altri diritti della Stazione appaltante. 
+
+
+
+Capitolato Speciale d’Appalto – Affidamento della fornitura di un sistema informativo integrato e dei servizi 
+
+connessi alla gestione del CED dell’A.R.C.A. Nord Salento di Brindisi. 
+
+_________________________________________ 
+
+8/25 
+
+ 
+
+L’Impresa appaltatrice è inoltre obbligata ad applicare integralmente le disposizioni di cui al comma 7 dell’art. 
+
+18 della legge 19 marzo 1990, n. 55, all’art. 9 del D.P.C.M. 10 gennaio 1991, n. 55 ed all’art. 31 della Legge, e 
+
+norme successive. 
+
+L’Impresa appaltatrice è inoltre obbligata al versamento all’INAIL, nonché, ove tenuta, alle Casse Edili, agli 
+
+Enti Scuola, agli altri Enti Previdenziali ed Assistenziali cui il lavoratore risulti iscritto, dei contributi stabiliti 
+
+per fini mutualistici e per la scuola professionale. 
+
+Art. 7. Consegna del servizio 
+La consegna del servizio all’Impresa appaltatrice, salvo quella disposta con urgenza, verrà effettuata entro 
+
+45 giorni dalla data di stipula del contratto, in conformità e secondo le modalità previste dal Regolamento. 
+
+L’Appaltatore dovrà comunque dare inizio al servizio entro il termine improrogabile di giorni 20 dalla data 
+
+del verbale di consegna fermo restando il rispetto del termine di cui al successivo capoverso per la 
+
+presentazione del programma operativo dei lavori. 
+
+Il servizio affidato avrà la durata di 6 anni decorrenti dalla data di consegna del servizio. 
+
+L’aggiudicatario dovrà fornire il nuovo sistema informatico perfettamente funzionante entro 6 mesi dalla 
+
+data di consegna del servizio. Il sistema sarà sottoposto al collaudo secondo le modalità indicate di seguito. 
+
+Contestualmente sarà avviata l’istruzione e la formazione all’uso della nuova piattaforma da parte 
+
+dell’aggiudicatario del personale di questa Agenzia sulla base delle rispettive attività. Il tutto come indicato 
+
+nel cronoprogramma di progetto. 
+
+Art. 8. Durata del servizio – Scadenze intermedie – Penali. 
+
+8.1 Durata del servizio 
+
+Il servizio di cui trattasi avrà la durata di 6 anni decorrenti dalla data di consegna ai sensi dell’articolo Art. 7. 
+
+Sono previste le seguenti scadenze intermedie: 
+
+- l’Appaltatore dovrà fornire il nuovo sistema informatico completo di tutti i servizi richiesti, operativo e 
+
+funzionante, entro 6 mesi naturali e consecutivi dalla data del verbale di consegna. L’Appaltatore dovrà 
+
+comunicare per iscritto a mezzo pec al Direttore dell’esecuzione e/o al RUP l’ultimazione della fornitura di 
+
+cui sopra non appena avvenuta; 
+
+8.2 Penali 
+
+In caso di mancata messa in opera del sistema entro 6 (sei) mesi dalla data di sottoscrizione del contratto o 
+
+di altro ritardo contrattuale, anche relativo agli interventi di assistenza tecnica e manutenzione richiesti, 
+
+l’impresa aggiudicataria sarà obbligata, per ogni giorno o frazione di giorno naturale e consecutivo di ritardo, 
+
+a versare una penale pari all’1 per mille dell’ammontare netto contrattuale. 
+
+La penale sarà preceduta da regolare contestazione scritta e motivata, inviata via PEC alla quale l’impresa 
+
+appaltatrice avrà facoltà di opporre controdeduzioni entro 10 giorni dalla contestazione medesima. Qualora, 
+
+entro il termine di dieci giorni, la Società non abbia effettuato il pagamento o non abbia dato nessun riscontro 
+
+alla richiesta di pagamento, l’ARCA Nord Salento provvederà ad incamerare l’importo dovuto direttamente 
+
+dal deposito cauzionale. La Società dovrà successivamente provvedere all’immediato reintegro della 
+
+cauzione.  
+
+In caso di grave inosservanza delle prescrizioni contrattuali ovvero, in particolare, qualora l’importo 
+
+complessivamente richiesto a titolo di penale, durante tutto l’arco della durata del contratto, raggiunga il 
+
+
+
+Capitolato Speciale d’Appalto – Affidamento della fornitura di un sistema informativo integrato e dei servizi 
+
+connessi alla gestione del CED dell’A.R.C.A. Nord Salento di Brindisi. 
+
+_________________________________________ 
+
+9/25 
+
+ 
+
+10% dell’importo complessivo netto del contratto stesso, l’Amministrazione considererà risolto di diritto il 
+
+contratto, provvedendo all’incameramento dell’intero deposito cauzionale, fatta salva l’azione per il 
+
+risarcimento del maggior danno subito ed ogni altra azione che l’Amministrazione ritenesse opportuno 
+
+intraprendere a tutela dei propri interessi. 
+
+Art. 9. Programma operativo del servizio 
+Entro 10 giorni dalla consegna dei lavori, l’Impresa presenterà al Direttore dell’esecuzione una proposta di 
+
+programma operativo dettagliato con cadenza mensile per l’esecuzione del servizio che dovrà essere redatto 
+
+tenendo conto del tempo concesso per dare le forniture ultimate entro il termine fissato dal presente 
+
+Capitolato. 
+
+Entro quindici giorni dalla presentazione, il Direttore dell’Esecuzione d’intesa con la Stazione appaltante 
+
+comunicherà all’Impresa l’esito dell’esame della proposta di programma; qualora esso non abbia conseguito 
+
+l’approvazione, l’Impresa entro 10 giorni, predisporrà una nuova proposta oppure adeguerà quella già 
+
+presentata secondo le direttive che avrà ricevuto dal Direttore dell’esecuzione. 
+
+Decorsi 10 giorni dalla ricezione della nuova proposta senza che il Direttore dell’esecuzione si sia espresso, il 
+
+programma operativo si darà per approvato. 
+
+La proposta approvata sarà impegnativa per l'Impresa, la quale rispetterà i termini di avanzamento mensili 
+
+ed ogni altra modalità proposta, salvo modifiche al programma operativo in corso di attuazione, per 
+
+comprovate esigenze non prevedibili che dovranno essere approvate od ordinate dal Direttore 
+
+dell’esecuzione. 
+
+L’Appaltatore, durante la migrazione dal vecchio al nuovo sistema informatico dovrà sempre e comunque 
+
+garantire la continuità delle attività istituzionali dell’Agenzia. 
+
+Art. 10. Liquidazione dei corrispettivi 
+
+10.1 Anticipazione 
+
+Ai sensi del comma 18 dell’Art. 35 del Codice degli Appalti, non è ammessa l’erogazione dell’anticipazione sul 
+
+contratto di appalto in quanto trattasi di appalto di servizi. 
+
+10.2 Pagamenti 
+
+Il pagamento della piattaforma e di tutti i servizi connessi e descritti nel presente capitolato sarà effettuato 
+
+mediante acconti mensili posticipati di uguale importo, calcolati dividendo l’importo di aggiudicazione per 72 
+
+mensilità (pari a 6 anni). 
+
+Art. 11. Termini per il collaudo o per l’accertamento della regolare esecuzione 
+Il collaudo sarà inteso a verificare che la piattaforma sia conforme alle specifiche indicate nell’offerta e che 
+
+siano in grado di svolgere le funzioni richieste, anche sulla scorta di tutte le prove funzionali e diagnostiche 
+
+stabilite nella documentazione oggetto della fornitura. Il collaudo sarà inteso anche a verificare l’esito 
+
+positivo della migrazione dei dati indicata al precedente punto.  
+
+Il collaudo parziale sarà effettuato alla presenza di incaricati della ditta aggiudicataria, che debbono 
+
+controfirmare il relativo processo verbale, non oltre trenta giorni dalla comunicazione della data della messa 
+
+in funzione di ciascuna area applicativa. Il collaudo finale dovrà riguardare la totalità dei programmi e delle 
+
+informazioni migrate oggetto della gara. Qualora i programmi installati o le informazioni migrate non 
+
+
+
+Capitolato Speciale d’Appalto – Affidamento della fornitura di un sistema informativo integrato e dei servizi 
+
+connessi alla gestione del CED dell’A.R.C.A. Nord Salento di Brindisi. 
+
+_________________________________________ 
+
+10/25 
+
+ 
+
+supereranno le prescritte prove funzionali e diagnostiche, le operazioni di collaudo saranno ripetute alle 
+
+stesse condizioni e modalità, entro trenta giorni.  
+
+A valle del collaudo finale e positivo decorreranno i servizi di assistenza e manutenzione, le attività di 
+
+assistenza, help desk e manutenzione adeguativa e correttiva per la durata di anni 3 (tre), più eventuale 
+
+proroga tecnica per garantire la continuità operativa dei servizi dell’ente nelle more del perfezionamento del 
+
+nuovo appalto, alle stesse condizioni previste nell’offerta economica. 
+
+Art. 12.  “Vendor lock in” 
+Le seguenti condizioni rappresentano tipici casi di vendor lock-in: 
+
+- la fruizione dei beni o servizi presuppone l'impiego da parte del cliente di standard, tecnologie o 
+
+metodologie proprie del fornitore (es. software proprietario) ed il ricorso ad un diverso fornitore 
+
+comporta per il cliente un passaggio a standard, tecnologie o metodologie differenti, con rilevanti 
+
+impatti economici ed organizzativi; 
+
+- il contratto che regola la fornitura dei beni o servizi (es. esternalizzazione) prevede condizioni 
+
+particolarmente penalizzanti per il cliente nel caso di passaggio ad altro fornitore, ovvero non regola 
+
+adeguatamente le condizioni e le modalità con le quali tale passaggio possa avvenire, rendendone 
+
+particolarmente incerto l'esito per il cliente; 
+
+- il cliente non dispone delle competenze e delle informazioni sufficienti per poter acquistare 
+
+determinati beni o servizi da un fornitore differente con costi e rischi sostenibili. 
+
+L’appaltatore dovrà adottare tutti gli accorgimenti necessari, tra i quali la massima standardizzazione dei 
+
+processi informatici, al fine di minimizzare situazioni di “vendor lock in”. Alla ultimazione del contratto, 
+
+l’appaltatore dovrà fornire il supporto tecnico e quanto altro necessario per consentire la migrazione dei 
+
+dati e delle informazioni nell’eventuale nuovo sistema informatico, il tutto nel rispetto della sicurezza 
+
+delle informazioni e delle norme vigenti in materia. 
+
+CAPO III - DISCIPLINA DEL CONTRATTO E MODALITÀ DI SOLUZIONE DELLE 
+
+CONTROVERSIE 
+
+Art. 13. Tracciabilità dei flussi finanziari 
+L’aggiudicatario si impegna a rispettare, a pena di nullità del contratto, gli obblighi relativi alla tracciabilità 
+
+dei flussi finanziari ai sensi dell’art. 3 della legge 136/2010 e s.m.i. 
+
+Art. 14. Cessione dei crediti derivanti dal contratto 
+Le cessioni di crediti possono essere effettuate a banche o intermediari finanziari disciplinati dalle leggi in 
+
+materia bancaria e creditizia, il cui oggetto sociale preveda l'esercizio dell'attività di acquisto di crediti di 
+
+impresa. Le cessioni di crediti devono essere stipulate mediante atto pubblico o scrittura privata autenticata 
+
+e devono essere notificate alle amministrazioni debitrici e sono efficaci e opponibili qualora queste non le 
+
+rifiutino con comunicazione da notificarsi al cedente e al cessionario entro quindici giorni dalla notifica della 
+
+cessione. Il Committente, nel contratto stipulato o in atto separato contestuale, può preventivamente 
+
+accettare la cessione da parte dell'esecutore di tutti o di parte dei crediti che devono venire a maturazione, 
+
+fatta salva la propria facoltà di opporre al cessionario tutte le eccezioni opponibili al cedente in base al 
+
+contratto con questo stipulato. 
+
+
+
+Capitolato Speciale d’Appalto – Affidamento della fornitura di un sistema informativo integrato e dei servizi 
+
+connessi alla gestione del CED dell’A.R.C.A. Nord Salento di Brindisi. 
+
+_________________________________________ 
+
+11/25 
+
+ 
+
+La cessione del credito senza la preventiva autorizzazione da parte della Stazione Appaltante costituisce 
+
+causa di risoluzione di diritto del contratto ai sensi dell’articolo 1456 del codice civile e fa sorgere il diritto 
+
+per l’Agenzia di effettuare l’esecuzione in danno, con incameramento della cauzione definitiva fatto salvo il 
+
+risarcimento di ogni conseguente maggiore danno eventualmente subito. 
+
+Art. 15. Cessioni di contratti 
+È fatto assoluto divieto all’Appaltatore delle opere in argomento, nonché ai subappaltatori autorizzati, di 
+
+cessione dei contratti, ai sensi dell’art. 18 della legge n. 55/90 e successive modificazioni ed integrazioni. 
+
+In caso di inosservanza di tale divieto, l’Amministrazione Appaltante procederà alla rescissione del contratto 
+
+di appalto per grave inadempimento, con ogni conseguenza di legge e con incameramento della cauzione 
+
+definitiva, fatti salvi ulteriori danni patiti e patiendi. 
+
+Art. 16. Risoluzione del contratto 
+Il rapporto contrattuale viene risolto di diritto nei seguenti casi: 
+
+a) sospensione della prestazione per fatto dell’impresa aggiudicataria per una durata superiore a 12 
+
+ore; 
+
+b) fallimento dell’impresa aggiudicataria o della mandataria in caso di associazione temporanea di 
+
+imprese; 
+
+c) cessione del contratto e/o del subappalto così come previsto dal precedente punto; 
+
+d) intervenuto provvedimento definitivo, a carico dell’appaltatore, che disponga l’applicazione di una o 
+
+più misure di prevenzione di cui all’art. 3 della legge 1423/1956 ed agli artt. 2 e segg. Legge 575/1965; 
+
+e) sentenza di condanna, passata in giudicato, per frodi nei riguardi della stazione appaltante, fornitori, 
+
+lavoratori o altri soggetti comunque interessati alla prestazione contrattuale; 
+
+f) violazione degli obblighi attinenti alla sicurezza sul lavoro e mancato rispetto degli obblighi 
+
+contrattuali riguardo ai lavoratori; 
+
+g) violazione del segreto d’ufficio e della tutela della privacy; 
+
+h) grave inadempimento in relazione alle obbligazioni contrattuali, nonché grave irregolarità e/o grave 
+
+ritardo (per negligenza dell’appaltatore), tali da compromettere la buona riuscita della prestazione 
+
+contrattuale; 
+
+i) in tutti gli altri casi previsti dal codice civile. 
+
+La risoluzione comporta l’incameramento della cauzione prestata. 
+
+È fatta salva la facoltà dell’Agenzia di esperire ogni altra azione per il risarcimento dell’eventuale maggior 
+
+danno subito che ne consegue o delle maggior spese sostenute a causa dell’inadempienza contrattuale. 
+
+In caso di risoluzione anticipata del contratto, il compenso viene corrisposto fino al giorno della cessazione 
+
+dell’affidamento. 
+
+L’Agenzia potrà aggiudicare il servizio al concorrente che segue la graduatoria con diritto al risarcimento del 
+
+maggiore onere sostenuto. 
+
+Art. 17. Arbitrato 
+É esclusa la competenza arbitrale. Qualsiasi controversia relativa all’interpretazione, applicazione ed 
+
+esecuzione del presente appalto è devoluta alla competenza del foro di Brindisi. 
+
+
+
+Capitolato Speciale d’Appalto – Affidamento della fornitura di un sistema informativo integrato e dei servizi 
+
+connessi alla gestione del CED dell’A.R.C.A. Nord Salento di Brindisi. 
+
+_________________________________________ 
+
+12/25 
+
+ 
+
+Art. 18. Controversie 
+Per tutte le controversie che dovessero insorgere nel corso della procedura di affidamento l’organo 
+
+competente è il T.A.R. Puglia, mentre è competente a giudicare il foro di Brindisi per le controversie relative 
+
+all’esecuzione del contratto. 
+
+Art. 19. Sicurezza, privacy e riservatezza 
+L’aggiudicatario ha la responsabilità della sicurezza delle informazioni (integrità, riservatezza e disponibilità) 
+
+dei dati e dei programmi affidati in gestione dall’ARCA Nord Salento - Brindisi e dovrà assicurare l’attivazione 
+
+di tutte le misure idonee al raggiungimento di tale obiettivo. 
+
+La ditta aggiudicataria dovrà garantire che i servizi di supporto informatico e l’eventuale trattamento di dati 
+
+siano prestati in piena conformità a quanto previsto dal Codice in materia di protezione dei dati personali di 
+
+cui al D.Lgs. 196/2003 e s.m.i. e che ai dati trattati siano applicate tutte le misure minime di sicurezza di cui 
+
+all’allegato B del citato Decreto. 
+
+La ditta aggiudicataria non potrà conservare copia di dati e programmi dell’ARCA Nord Salento, né alcuna 
+
+documentazione inerente ad essi dopo la conclusione del contratto. 
+
+L’appaltatore assumerà l’obbligo di agire in modo che il proprio personale incaricato di eseguire le prestazioni 
+
+contrattuali, mantenga riservati i dati e le informazioni di cui venga in possesso, non li riveli senza ordine 
+
+della legittima Autorità, non li divulghi e non ne faccia oggetto di sfruttamento. 
+
+Il contraente dovrà, entro e non oltre 10 giorni dalla comunicazione dell’Agenzia dell’avvenuta 
+
+aggiudicazione, comunicare il nominativo del Responsabile della Sicurezza delle informazioni e i curriculum 
+
+vitae dei tecnici informatici che eventualmente opereranno presso la sede, nonché del Referente/Capo 
+
+progetto della gestione del contratto informatico. 
+
+I dati personali conferiti ai fini della partecipazione alla gara dai concorrenti, saranno raccolti e trattati ai fini 
+
+del procedimento di gara e dell’eventuale stipulazione del contratto, secondo le modalità e le finalità di cui 
+
+al D.Lgs. 196/2003 e s.m.i. 
+
+
+
+Capitolato Speciale d’Appalto – Affidamento della fornitura di un sistema informativo integrato e dei servizi 
+
+connessi alla gestione del CED dell’A.R.C.A. Nord Salento di Brindisi. 
+
+_________________________________________ 
+
+13/25 
+
+ 
+
+PARTE II – DISPOSIZIONI TECNICHE REGOLANTI L’APPALTO 
+
+Art. 20. Requisiti generali di sistema 
+
+20.1 Caratteristiche generali della fornitura software  
+
+L’ARCA Nord Salento non dispone attualmente di un software integrato nella gestione delle basi informative. 
+
+L’obiettivo della presente gara è dunque quello di economizzare i costi, ottimizzare l’utilizzo diffuso dei 
+
+moduli applicativi e, soprattutto, evolvere il sistema ad una tecnologia standard che possa adeguatamente 
+
+essere supportata dal contesto infrastrutturale esistente (intranet ed internet), integrandosi con strumenti 
+
+di utilizzo quotidiano (hosts e device di qualunque sfera tecnologica), così da poter superare i problemi che 
+
+il personale potrebbe incontrare nel passaggio a nuovi strumenti di elaborazione dati.  
+
+La piattaforma dovrà essere rispondente alla normativa vigente di riferimento e comprensiva di tutti i moduli 
+
+necessari a garantire una copertura funzionale completa delle attività di competenza dell’Agenzia in ottica di 
+
+dematerializzazione, nonché ad assicurare la gestione completa ed integrata del documento informatico 
+
+lungo tutto il proprio ciclo di vita (dalla creazione o ricezione alla conservazione digitale a norma).  
+
+La soluzione dovrà essere interoperabile con gli strumenti di produttività individuali presenti nell’Agenzia, 
+
+esportabile nei dati in formato Excel, CSV, PDF/A e XML, soprattutto, dovrà avere i requisiti funzionali ai 
+
+processi di cooperazione applicativa con la predisposizione dei necessari web-services. 
+
+Nell’ambito della fornitura dovranno essere garantiti e quantificati:  
+
+ l’attività di conversione e migrazione dati da applicativi già presenti nell’Agenzia;  
+
+ il piano e le attività di formazione e assistenza finalizzate alla fase di avvio all’uso della piattaforma; 
+
+ i servizi di gestione, assistenza tecnica e manutenzione delle procedure e dei dati; 
+
+Il Fornitore dovrà pertanto rendere disponibile soluzioni tecnologiche e servizi che abbiano lo scopo di 
+
+semplificare la gestione dell’Agenzia e renderlo snello ed innovativo. 
+
+20.2 Requisiti generali di sistema (requisiti minimi obbligatori)  
+
+La soluzione proposta dovrà rispettare i seguenti requisiti:  
+
+ tutte le applicazioni devono poter essere utilizzate da più stazioni di lavoro, mediante l’utilizzo di un 
+
+semplice browser (cloud), indipendentemente dalla loro collocazione fisica sulla rete, la compatibilità 
+
+deve essere garantita con i browser maggiormente utilizzati. I client, per quanto possibile, non 
+
+dovranno necessitare di installazioni di ulteriore software aggiuntivo. 
+
+ Impiego di banda e connettività contenuta, ogni client che accede al sistema dovrà richiedere 
+
+un’occupazione di banda contenuta.  
+
+Le applicazioni devono possedere un’interfaccia grafica intuitiva ed interattiva in ottemperanza alla Legge 
+
+4/2004 (Usabilità). La semplicità dell’interfaccia è una tra le condizioni imprescindibili per assicurare un 
+
+miglior grado di accettazione da parte degli utenti che, abituati ad applicazioni utilizzate da tempo si 
+
+troveranno, pur se con funzionalità estese, a dover interagire con un nuovo sistema informativo.  
+
+Il sistema dovrà prevedere l’impiego di oggetti grafici, tasti funzione e l’impiego del mouse, oltre ad una 
+
+opportuna messaggistica sostenuta da un help in linea e relativo manuale d’uso. Tale metodologia di 
+
+interazione utente/sistema dovrà essere coerente in tutte le componenti in cui è strutturata ogni singola 
+
+applicazione e per tutte le applicazioni proposte.  
+
+
+
+Capitolato Speciale d’Appalto – Affidamento della fornitura di un sistema informativo integrato e dei servizi 
+
+connessi alla gestione del CED dell’A.R.C.A. Nord Salento di Brindisi. 
+
+_________________________________________ 
+
+14/25 
+
+ 
+
+Aderenza ai criteri di alta accessibilità. Le componenti di fornitura proposte devono essere in linea con la 
+
+normativa sull’accessibilità. 
+
+Interazione con ambienti esterni. Al fine di garantire una migliore interazione con il portale dell’Agenzia e 
+
+con gli sviluppi e le evoluzioni applicative future è privilegiato l’utilizzo di modalità di interazione via XML e 
+
+Web Services.  
+
+Gestione della sicurezza. Per quanto riguarda il controllo degli accessi e delle transazioni, particolare 
+
+attenzione deve essere rivolta al sistema di gestione della sicurezza, ottenuto attraverso sia strumenti di 
+
+autenticazione consolidati, sia modalità di accesso (via CNS, CIE, etc.); deve inoltre essere prevista la 
+
+centralizzazione dell’autenticazione.  
+
+Database. Il sistema proposto deve supportare database di mercato, con la possibilità da parte dell’Agenzia 
+
+di accedere agli archivi o tramite gli strumenti di system administration specifici delle applicazioni proposte 
+
+o tramite quelli eventualmente resi disponibili dal database adottato.  
+
+Disponibilità di servizi di interazione con cittadini ed imprese: nell’ambito della soluzione applicativa 
+
+dovranno essere erogati tramite un portale tutti i servizi e le informazioni comprese nei procedimenti 
+
+amministrativi e di interazione con gli utenti di carattere pubblico e mediante accesso autenticato. Le 
+
+informazioni pubblicate attraverso il portale dovranno essere attinte direttamente dalla banca dati 
+
+dell’Agenzia.  
+
+Disponibilità di strumenti di analisi per l’amministrazione. Nell’ambito della soluzione applicativa proposta 
+
+dovranno essere resi disponibili opportuni strumenti per la rilevazione del contesto sociale locale. Le 
+
+informazioni rese disponibili mediante opportuna autenticazione dovranno essere alimentate direttamente 
+
+dalla banca dati e dovranno contenere dati di analisi e di sintesi utili per il supporto alle decisioni, per 
+
+eventuali previsioni e per il controllo dei risultati.  
+
+Disponibilità di strumenti di comunicazione e condivisione delle informazioni fra i vari uffici: si ritiene 
+
+importante favorire lo scambio di informazioni tra i vari settori, sarà pertanto giudicata positivamente la 
+
+disponibilità di automatismi e strumenti di condivisione delle informazioni gestite dai vari settori.  
+
+Integrazione spinta tra moduli: si ritiene requisito funzionale la centralizzazione dell'anagrafica delle persone 
+
+fisiche e giuridiche. Il soggetto e le sue caratteristiche anagrafiche non debbono essere ridondate nei vari 
+
+moduli. Dovrà essere possibile ottenere senza soluzione di continuità l'insieme informativo (fatture, 
+
+movimentazione contabile, etc) correlati ad una singola anagrafica.  
+
+Interazione con i più diffusi strumenti di office. 
+
+Predisposizione del Sistema con la Firma Elettronica avanzata e rispondenza con le altre disposizioni 
+
+previste dal CAD (Codice dell’Amministrazione Digitale), nonché delle più recenti disposizioni in ambito di 
+
+gestione dei documenti elettronici, PEC, etc. 
+
+Saranno valutati eventuali elementi migliorativi proposti dal fornitore.  
+
+20.3 Requisiti minimi dell’infrastruttura tecnologica 
+
+In considerazione della necessità di evitare nella prima fase di avvio della piattaforma, la gestione dei servizi 
+
+relativi alle componenti applicative e sistemistiche, il bando è orientato al modello di fornitura ASP/SaaS. 
+
+Il sistema, fornito e gestito dall’Appaltatore, dovrà possedere i seguenti requisiti minimi:  
+
+ Infrastruttura tecnologica estremamente stabile, performante e sicura;  
+
+ Architettura basata sui seguenti ambienti separati e indipendenti:  
+
+o ambiente di sviluppo, dedicato allo sviluppo delle nuove funzionalità;  
+
+o ambiente di produzione, dedicato alla erogazione effettiva dei servizi sviluppati.  
+
+
+
+Capitolato Speciale d’Appalto – Affidamento della fornitura di un sistema informativo integrato e dei servizi 
+
+connessi alla gestione del CED dell’A.R.C.A. Nord Salento di Brindisi. 
+
+_________________________________________ 
+
+15/25 
+
+ 
+
+ l’appoggio su una rete di interconnessione a banda larga, completamente “magliata”, senza “single 
+
+point of failure” ed in grado di garantire connettività a banda piena in qualsiasi Paese Europeo;  
+
+ configurazione di rete in grado di estendere il livello di ridondanza anche alla connessione internet, 
+
+intesa come fornitura del servizio di accesso (ISP redundancy);  
+
+ l’accesso al sistema attraverso un’interfaccia di grande diffusione come il web browser (tale accesso 
+
+dovrà avvenire esclusivamente attraverso un client https).  
+
+Il sistema dovrà garantire un meccanismo di tracciamento esteso delle attività eseguite da utenti del sistema, 
+
+interni ed esterni, attraverso registrazioni di sistema (log applicativi).  
+
+Si richiede, inoltre, la conformità agli standard internazionali per la Gestione della Sicurezza delle 
+
+Informazioni, nonché alla normativa nazionale vigente, l’eventuale possesso di specifiche certificazioni 
+
+costituirà oggetto di valutazione comparativa nell’assegnazione del punteggio. Il sistema dovrà garantire la 
+
+sincronizzazione di tutti gli orologi di sistema, con protocollo NTP, al “Central European Time” (CET); il tempo 
+
+del sistema dovrà essere sempre visibile almeno agli Utenti Esterni che partecipano ad eventi negoziali, 
+
+preferibilmente a tutti gli Utenti che effettueranno l’accesso.  
+
+Il modello di erogazione previsto deve prevedere la fornitura di adeguati applicativi software, ospitati 
+
+all'interno della infrastruttura dell’aggiudicatario, ai quali devono poter accedere tutte le categorie di utenti 
+
+senza comportare particolari investimenti, in termini di hardware e licenze software, per l’Agenzia. 
+
+La soluzione proposta per la piattaforma in oggetto dovrà essere tale da garantire l’utilizzo dell’intero insieme 
+
+delle funzionalità via web mediante un semplice accesso ad internet e l’uso dei più comuni browser. 
+
+Il fornitore sarà responsabile della piattaforma hardware e software sulla quale sarà installata la soluzione 
+
+comprensiva di tutte le applicazioni componenti il sistema, e dovrà garantire l’accessibilità alle stesse da 
+
+parte degli utenti, oltre che la continuità di erogazione del servizio. 
+
+A tale scopo è richiesto il possesso della certificazione ISO 27001 quale elemento di verifica del sistema di 
+
+gestione per la sicurezza delle informazioni, al fine di salvaguardarne la riservatezza, l'integrità e la 
+
+disponibilità e valorizzare gli investimenti legati alla loro tutela per quanto riguarda gli aspetti tecnologici, 
+
+operativi, procedurali, umani e ambientali. 
+
+20.4 Moduli da fornire 
+
+La piattaforma telematica oggetto di acquisizione deve intendersi come un sistema modulare. I moduli 
+
+dovranno essere sviluppati su server virtuali dedicati e saranno accessibili da qualsiasi computer tramite 
+
+connessione internet. Per semplificare l’accesso alle varie funzionalità da parte dei dipendenti dovrà essere 
+
+realizzato un gateway di connessione centralizzato che permetterà, di raggiungere tutti i moduli disponibili. 
+
+I servizi applicativi del sistema informativo dell’Agenzia dovranno garantire la piena conformità dei processi 
+
+alle norme vigenti e la totale sicurezza, trasparenza, affidabilità e confidenzialità dei dati che vi saranno 
+
+trattati. 
+
+20.4.1 Portale istituzionale dell’Agenzia 
+
+L’aggiudicatario dovrà progettare e realizzare il sito web istituzionale dell’Agenzia in accordo con la normativa 
+
+vigente con le seguenti caratteristiche: 
+
+ studio e realizzazione visual identity e declinazione su layout grafico del sito web. Il sito dovrà essere 
+
+responsive, adattabile ai dispositivi mobili di navigazione e piattaforme più diffuse: Apple, Android e 
+
+Windows mobile; 
+
+ predisposizione con tutti gli spazi necessari previsti dal d.lgs.33/2013 in materia di trasparenza 
+
+modificato con d.lgs. 97/2016; 
+
+
+
+Capitolato Speciale d’Appalto – Affidamento della fornitura di un sistema informativo integrato e dei servizi 
+
+connessi alla gestione del CED dell’A.R.C.A. Nord Salento di Brindisi. 
+
+_________________________________________ 
+
+16/25 
+
+ 
+
+ area dedicata all’albo pretorio on-line, con tutti i criteri previsti per legge di atti in corso di 
+
+pubblicazione, archiviazione automatica nello storico, diritto all’oblio; 
+
+ progettazione e costruzione del portale secondo i criteri di usabilità ed accessibilità prescritti dalla 
+
+normativa vigente; 
+
+ ottimizzazione dei contenuti al fine di renderli ben visibili e altamente reperibili dai motori di ricerca 
+
+(Search Engine Optimization); 
+
+ porting dei contenuti e delle informazioni presenti nell’attuale sito web dell’Agenzia, nel rispetto 
+
+delle condizioni di accesso e dei requisiti di sicurezza previsti dall’ambiente operativo, sia di 
+
+produzione che di esercizio, al fine di garantire la continuità del servizio, salvo il minimo 
+
+indispensabile downtime; 
+
+ architettura di produzione/esercizio comprensiva di tutto il SW di base ed applicativo (CMS con 
+
+diversi livelli di accesso, basic e superiori) per il funzionamento del sito; 
+
+Il sito dovrà essere improntato all’immediatezza e alla facilità d’uso; dovrà essere organizzato in maniera 
+
+chiara, attraverso una strutturazione gerarchica dei contenuti, evitando duplicazioni e ridondanze e dando 
+
+risalto alle aree logiche di maggiore interesse e ai servizi strategici.  
+
+L’interfaccia utilizzata per comunicare con l’utenza dovrà essere progettate con un approccio che adotti i 
+
+paradigmi tipici del Web 2.0, in particolare la pulizia di impostazione, l’interattività, il coinvolgimento del 
+
+fruitore. Tutte le scelte comunicative dovranno quindi riflettere le qualità principali del servizio offerto dal 
+
+portale: affidabilità, trasparenza, efficacia, innovazione.  
+
+Il CMS fornito dovrà essere uno strumento evoluto di ultima generazione e semplice da usare che permetterà 
+
+di: 
+
+ creare ed aggiornare il portale internet con facilità d’uso e rispettando i principi di usabilità e 
+
+accessibilità; 
+
+ gestire la nuova comunicazione integrata multimediale e multicanale. Il CMS dovrà permettere una 
+
+gestione efficiente ed integrata dei contenuti e la loro fruizione in modalità multicanale (anche 
+
+tramite portali internet ed intranet, dispositivi mobile, ecc.). Dovrà essere un sistema unico, integrato 
+
+e modulare che condivide contenuti non duplicati e li rende fruibili ed accessibili in tutte le condizioni 
+
+d’uso. Il software di CMS non dovrà richiedere l’installazione di nessun software sui PC e sui 
+
+dispositivi Client degli utilizzatori e permetterà la gestione, sia dei contenuti che di tutte le 
+
+impostazioni, via internet ed attraverso un normale browser di navigazione. Dovrà essere un sistema 
+
+guidato e di facile utilizzo anche da parte di personale non tecnico. 
+
+20.4.2 Protocollo informatico 
+
+L’applicativo dovrà gestire le attività della registrazione e gestione della corrispondenza in entrata e uscita 
+
+dell’Agenzia, rispettando i requisiti minimi del DPR 445/2000 (artt. 53, 55, 56). Il modulo dovrà proporre in 
+
+automatico l'anno, la data ed il numero di protocollo, mentre, l’operatore dovrà indicare l’oggetto, il mittente 
+
+ed i destinatari. Ogni pratica registrata dovrà essere assegnata ad un ufficio che ne diviene responsabile. Il 
+
+sistema dovrà impedire la distruzione o l’alterazione di qualsiasi informazione memorizzata, garantendo la 
+
+tracciabilità di tutte le modifiche apportate alle registrazioni unitamente al loro autore; dovrà inoltre essere 
+
+inibita qualsiasi eliminazione fisica di informazioni. 
+
+Il software dovrà consentire, contestualmente alla registrazione, l’acquisizione di documenti cartacei in 
+
+formato immagine, l’acquisizione di documenti da file system e da casella di posta elettronica, gestendo i 
+
+principali formati di documenti elettronici e garantendo l’immodificabilità dei documenti acquisiti nel sistema 
+
+e protocollati.  
+
+
+
+Capitolato Speciale d’Appalto – Affidamento della fornitura di un sistema informativo integrato e dei servizi 
+
+connessi alla gestione del CED dell’A.R.C.A. Nord Salento di Brindisi. 
+
+_________________________________________ 
+
+17/25 
+
+ 
+
+Il modulo dovrà essere protetto da accessi non autorizzati e la gestione dei profili dovrà consentire o negare 
+
+l'accesso alle singole funzionalità del sistema; ogni profilo è inoltre subordinato all'appartenenza 
+
+dell'operatore ad uno degli uffici competenti.  
+
+Il modulo dovrà: 
+
+ gestire PEC (Posta Elettronica Certificata); 
+
+ consentire la stampa della Distinta Postale; 
+
+ permettere l’esportazione degli archivi in formato aperto per la visualizzazione di tutti i protocolli 
+
+presenti 
+
+ consentire la gestione degli archivi, attività ispettiva, stampa del registro giornaliero di protocollo. 
+
+Dovrà inoltre prevedere almeno le seguenti funzionalità di base: 
+
+ pienamente integrato con il sistema di gestione delle pratiche ed il documentale dell’Ente anche da 
+
+parte di utenti con richieste che provengono dal web; 
+
+ acquisizione di documenti anche senza il vincolo del sistema documentale; 
+
+ disponibilità di flussi XML per integrare il protocollo con altre procedure; 
+
+ interrogazioni ed estrazioni dei documenti registrati; 
+
+ protocollazione automatica posta elettronica certificata in entrata e uscita. 
+
+20.4.3 Atti decisionali 
+
+Questo modulo applicativo dovrà condividere pienamente l’archivio utenti e organigramma con il modulo 
+
+Protocollo prevedendo la gestione completa degli atti deliberativi e delle determine dirigenziali, seguendone 
+
+l'Iter burocratico che va dalla parte relativa all’inserimento della bozza, dei dati della proposta di 
+
+deliberazione, con la stesura del relativo testo, a quella relativa alla gestione vera e propria della delibera 
+
+(trasformazione automatica della proposta in delibera ed alle approvazioni) o della determinazione.  
+
+A titolo esemplificativo dovrà prevedere le seguenti funzioni: 
+
+ stesura della bozza della proposta; 
+
+ inserimento dei pareri e dei dati relativi all’impegno di spesa; 
+
+ generazione automatica dell’ordine del giorno e stampa del relativo avviso di convocazione; 
+
+ trasformazione della proposta in delibera; 
+
+Per quanto concerne gli atti gestiti, dovrà essere possibile effettuate ricerche per Ufficio, data, oggetto, 
+
+nonché le relative visualizzazioni ed estrazioni in vari formati (tra cui PDF). 
+
+L’applicativo dovrà permettere la gestione degli atti deliberativi, che hanno efficacia e rilevanza giuridica. 
+
+20.4.4 Ragioneria 
+
+L’applicativo dovrà permettere la gestione completa degli adempimenti finanziari dell’Ente. Al fine della 
+
+riservatezza dei dati, attraverso la gestione delle password dovrà essere possibile limitare l’accesso alla 
+
+procedura ai soli utenti abilitati nonché definirne nel dettaglio l’operatività. 
+
+Il modulo, già adeguato al D.LGS. 118/2012 dovrà prevedere la gestione di: 
+
+ Gestione del bilancio di previsione (competenza, residui, cassa); 
+
+ Gestione del bilancio in dodicesimi; 
+
+ Bilancio pluriennale e calcolo automatico; 
+
+ Allegati al bilancio di previsione; 
+
+ Gestione variazioni di bilancio; 
+
+ Rideterminazioni dei residui suddivisi per anno, con controllo disponibilità su anni attivi; 
+
+ Gestione chiusura di bilancio, rendiconto e allegati al rendiconto di bilancio; 
+
+
+
+Capitolato Speciale d’Appalto – Affidamento della fornitura di un sistema informativo integrato e dei servizi 
+
+connessi alla gestione del CED dell’A.R.C.A. Nord Salento di Brindisi. 
+
+_________________________________________ 
+
+18/25 
+
+ 
+
+ Gestione impegni provvisori; 
+
+ Gestione impegni/accertamenti pluriennali; 
+
+ Gestione movimenti di entrata (accertamenti/reversali); 
+
+ Gestione movimenti di spesa (impegni/liquidazioni/mandati); 
+
+ Gestione ritenute; 
+
+ Generazione file 770; 
+
+ Generazione automatica certificazioni; 
+
+ Registrazioni fatture elettroniche; 
+
+ Gestione e liquidazione IVA; 
+
+ Possibilità di gestire e tabellare registri IVA distinti (definitivi e in sospensione); 
+
+ Gestione liquidazioni; 
+
+ Interrogazioni ricorsive e circolari; 
+
+ Gestione mutui e generazione automatica dei movimenti di spesa; 
+
+ Gestione e interrogazione vincoli; 
+
+ Estratti conto debitori/creditori; 
+
+ Albo clienti/fornitori; 
+
+ Gestione economico/patrimoniale in partita doppia; 
+
+ Bilancio economico; 
+
+ Gestione contabilità generale per centri di costo; 
+
+ Interrogazioni e stampe per centri di costo e nature di costo  
+
+Inventario  
+
+ Funzioni di archiviazione, descrizione e valutazione dei beni materiali e immateriali; 
+
+ Ubicazione dei beni mobili; 
+
+ Conto della gestione del consegnatario; 
+
+ Gestione di buoni di carico; 
+
+ Registrazioni di carico/trasferimento/scarico; 
+
+ Gestione di più registri; 
+
+ Integrazione con contabilità economico finanziaria e ciclo passivo (ordini, fatture,….); 
+
+ Gestione degli ammortamenti con aggiornamento in automatico; 
+
+ Gestione rivalutazioni; 
+
+ Estrazione in visualizzazione e stampa di varie tipologie di elenco con possibilità di scegliere 
+
+l’aggregazione (per consegnatario, centro di costo, funzioni, servizi,  ….)  
+
+Economato  
+
+ Gestione delle movimentazioni e dei documenti; 
+
+ Rilevazione della dotazione di cassa e dei limiti di spesa; 
+
+ Gestione delle uscite e delle entrate; 
+
+ Emissione dei buoni economali; 
+
+ Rendicontazione e stampa dei registri; 
+
+ Generazione automatica dei movimenti di reintegro economale e delle relative scritture 
+
+economiche; 
+
+ Gestione multi cassa; 
+
+ Gestione centralizzata delle casse presso le sedi decentrate; 
+
+
+
+Capitolato Speciale d’Appalto – Affidamento della fornitura di un sistema informativo integrato e dei servizi 
+
+connessi alla gestione del CED dell’A.R.C.A. Nord Salento di Brindisi. 
+
+_________________________________________ 
+
+19/25 
+
+ 
+
+ Collegamento al SIOPE a livello di bolletta e di tutti i controlli con la contabilità economica e analitica.  
+
+20.4.5 Personale 
+
+Trattamento economico  
+
+L’applicativo deve supportare l’operatore nel processo quotidiano di elaborazione del cedolino e della 
+
+corretta gestione delle anagrafiche del personale, rendendo disponibili automatismi e strumenti di verifica 
+
+che prevedano anche:  
+
+ Controllo sulle anagrafiche dei dipendenti;  
+
+ Controllo delle corrette storicizzazioni dei campi di anagrafica (ad es. gestione della decorrenza 
+
+giuridica per le progressioni verticali/orizzontali);  
+
+ Controllo analitico dei prospetti paga elaborati; verifica degli elementi principali in correlazione alla 
+
+normativa vigente;  
+
+ Controlli automatici per la congruità tra le elaborazioni stipendiali ed i tabulati utili alla 
+
+contabilizzazione degli stipendi (ad es. il sistema deve verificare che tutte le variabili fisse ed 
+
+accessorie, nonché tutti gli oneri riflessi derivanti dall’elaborazione stipendiale siano correttamente, 
+
+imputati ai capitoli di bilancio);  
+
+ Controlli di congruenza nella creazione delle voci paga disponibili per l’utente; 
+
+ Appositi controlli ed automatismi per la gestione delle assenze fortemente legata alla normativa di 
+
+settore devono prevedere il calcolo automatico del periodo di comporto per le malattie, il 
+
+riconoscimento dei giorni legati all’applicazione della Legge 133, il riconoscimento dei giorni utili per 
+
+i congedi parentali e le relative percentuali di riduzione, nonché tutte le altre aspettative, congedi ed 
+
+assenze previste per il settore;  
+
+ Semplicità, profondità storica e possibilità di estrazione utilizzando tutte le informazioni presenti 
+
+nelle anagrafiche dei dipendenti e nelle voci di contabilità, nella realizzazione di report, legati alle 
+
+anagrafiche dei dipendenti ed a tutti i dati stipendiali, con dettaglio analitico non solo del costo del 
+
+personale, inteso come competenze lorde, ma anche degli oneri riflessi ad esso correlati esportabili 
+
+anche verso open office ed office;  
+
+ Gli elaborati mensili ed annuali dovranno prevedere l’esportazione su supporti office ed open office;  
+
+ Gli elaborati mensili ed annuali dovranno prevedere controlli automatici volti alla corretta 
+
+applicazione delle norme di settore (ad es. modificando il periodo di estrazione del modello DMA, il 
+
+sistema deve compilare correttamente la denuncia);  
+
+ Nell’ambito della DMA, il software dovrà predisporre automaticamente tutte le informazioni presenti 
+
+nella denuncia, considerando tutti i periodi di lavoro utili, inclusi i periodi di eventuale assenza ed i 
+
+cambi di rapporto di lavoro, da indicare nella denuncia, compilando correttamente tutti i quadri, 
+
+compresi i campi tipo impiego e tipo servizio;  
+
+ Calcolo automatico di tutte le differenze retributive, positive e negative relativamente a tutte le voci 
+
+stipendiali fisse ed accessorie, per: rinnovi contrattuali, progressioni con decorrenza giuridica 
+
+retroattiva ed eventuali variazioni economiche e storiche che prevedono un ricalcolo manuale da 
+
+parte degli operatori; il sistema dove inoltre considerare, in fase di ricalcolo, tutte le assenze e le 
+
+variazioni intercorse nel periodo preso in esame;  
+
+ Calcolo automatico degli arretrati contrattuali: in fase di rinnovo contrattuale o di progressione 
+
+economica (aumento di livello) l’applicativo, secondo la logica cedolini pagati-dovuti, deve poter 
+
+elaborare tutte le differenze a credito o debito relative alle “voci paga” oggetto di variazione;  
+
+
+
+Capitolato Speciale d’Appalto – Affidamento della fornitura di un sistema informativo integrato e dei servizi 
+
+connessi alla gestione del CED dell’A.R.C.A. Nord Salento di Brindisi. 
+
+_________________________________________ 
+
+20/25 
+
+ 
+
+ Gestione delle missioni/trasferte del personale;  
+
+ Pubblicazione automatica delle informazioni del dipendente e di competenza dell’ufficio del 
+
+trattamento economico, attraverso il portale del dipendente.  
+
+Trattamento giuridico  
+
+Il sistema dovrà permettere: 
+
+ gestione dotazione organica e pianta organica (organigramma), prevedendo automaticamente le 
+
+variazioni intercorse sul personale;  
+
+ gestione completa del fascicolo del personale e di tutto il periodo di servizio presso l’Ente, nonché 
+
+degli eventuali periodi svolti presso altre amministrazioni; 
+
+ stampa automatica e totalmente personalizzabile della modulistica legata al rapporto di lavoro;  
+
+Rilevazione presenze  
+
+ Integrazione con i rilevatori presenze attualmente utilizzati dall’Amministrazione; 
+
+ Gestione/Acquisizione file Presenze indipendente dall’hardware di rilevazione utilizzato; 
+
+ Inserimento giustificativi di Assenza/Presenza; 
+
+ Contabilizzazione periodo di comporto (in caso di assenze per malattia);  
+
+ Totale flessibilità di impostazione orari/turni e regole di elaborazione cartellino orario; 
+
+ Verifica della congruenza fra orario impostato ed orario effettuato con segnalazione/ correzione 
+
+delle anomalie; 
+
+ Verifica dei Soggetti presenti ad un dato orario; 
+
+ Ricostruzione turno effettuato in base alle timbrature rilevate; 
+
+ Creazione e gestione automatica di contatori e giustificativi; 
+
+ Statistiche su contatori e giustificatori con esportazione del dato; 
+
+ Stampa foglio presenze mensile e generazione file in formato PDF per invio elettronico. 
+
+ 
+
+Integrazioni  
+
+Al fine di agevolare l’interazione tra gli uffici per una più efficace ed efficiente erogazione dei servizi, 
+
+assicurando nel contempo una maggiore condivisione delle informazioni all’interno dell’ente è requisito 
+
+fondamentale del sistema prevedere una forte integrazione tra i vari sottosistemi applicativi del settore 
+
+finanziario e personale.  
+
+ 
+
+ 
+
+20.4.6 Inquilinato 
+
+Tramite la sezione Inquilinato, gli utenti abilitati dovranno essere in grado di effettuare qualsiasi tipo di 
+
+operazione attinente al servizio. A solo titolo esemplificativo e non esaustivo: 
+
+ Gestione Anagrafiche  
+
+ Gestione pratiche legali 
+
+ Note 
+
+ Gestione deleghe sindacali 
+
+ Gestione Canoni 
+
+ Gestione nuclei familiari e reddituali con storico 
+
+ Gestione posizione contabile degli inquilini 
+
+
+
+Capitolato Speciale d’Appalto – Affidamento della fornitura di un sistema informativo integrato e dei servizi 
+
+connessi alla gestione del CED dell’A.R.C.A. Nord Salento di Brindisi. 
+
+_________________________________________ 
+
+21/25 
+
+ 
+
+ Visualizzazione in tempi reali dei pagamenti effettuati dagli inquilini, qualsiasi sia il metodo di 
+
+pagamento utilizzato anche online 
+
+ Gestione Contratti 
+
+ Integrazione con il sistema di Atti Decisionali e Protocollo. 
+
+Nelle interfacce di gestione dovrà essere possibile accedere, ove necessario, a collegamenti, a protocolli o 
+
+atti decisionali inerenti alla pratica in lavorazione con un semplice clic, grazie all’interazione tra le due banche 
+
+dati. 
+
+La sezione permetterà di interrogare la banca dati ed esportare informazioni per elaborazioni da parte degli 
+
+uffici e dovrà consentire l’importazione e l’integrazione di banche dati provenienti da enti esterni, con i quali 
+
+l’ARCA Nord Salento ha in corso la definizione di apposite convenzioni (INPS, INAIL, Agenzia delle Entrate, 
+
+Agenzia del Territorio, Anagrafe dei comuni di Brindisi e provincia), con lo scopo di “automatizzare” le 
+
+verifiche periodiche dei requisiti in possesso degli assegnatari degli alloggi, il calcolo del canone di locazione 
+
+in funzione dell’ISEE e quant’altro correlato alle attività dell’inquilinato. 
+
+20.4.7 Patrimonio / Manutenzioni 
+
+La sezione Patrimonio dovrà contenere tutte le informazioni tecniche riguardanti il patrimonio di proprietà o 
+
+gestito dall’Agenzia con riferimenti a: 
+
+ Codice alloggio 
+
+ Lotti (Fabbricati, scale, n. alloggi, piano, interno, ecc.) 
+
+ Fabbricati (con o senza ascensore) 
+
+ Legge di finanziamento con indicazione dell’Ente realizzatore l’intervento (INCIS, INACASA, ISES, 
+
+GESCAL, UNRRACASAS, ABILAG riscatto o locazione, ecc.) 
+
+ Alloggi 
+
+ Pertinenze 
+
+ Locali Commerciali 
+
+ Proprietà dell’Agenzia non destinate all’Utenza 
+
+ Ubicazione (comune, via e numero civico) 
+
+ Dati catastali (FG, particella, sub, superficie catastale) nonché tutti gli altri dati necessari ai fini fiscali 
+
+(IMU, IRPEF, TOSAP, ecc.) 
+
+ Superfici (utile, alloggio, balconi, box, cantine, giardino, ecc.) 
+
+ Dati convenzionali (coefficienti per il calcolo della superficie convenzionale) 
+
+ Abbinamento unità immobiliare con relativi elaborati tecnici (planimetrie, piante, prospetti, 
+
+documentazione fotografica, ecc.) 
+
+ Situazioni di promiscuità (locazione, riscatto con estremi atto, abusivi) 
+
+ Morosità 
+
+ Dati urbanistici (concessione edilizia, ecc.) 
+
+ Diritto reale esercitato; 
+
+ Data di costruzione e data di assegnazione. 
+
+Dovrà essere possibile mantenere lo storico delle proprietà cedute o vendute nonché interrogare la banca 
+
+dati ed esportare informazioni per elaborazioni da parte degli uffici o comunicazioni con altri enti pubblici. 
+
+Il modulo dovrà mettere inoltre a disposizione una sezione per la gestione delle segnalazioni e delle attività 
+
+di manutenzione sul patrimonio dell’Agenzia tramite cui sarà possibile: 
+
+ Inserire o ricevere le segnalazioni da parte degli Inquilini; 
+
+
+
+Capitolato Speciale d’Appalto – Affidamento della fornitura di un sistema informativo integrato e dei servizi 
+
+connessi alla gestione del CED dell’A.R.C.A. Nord Salento di Brindisi. 
+
+_________________________________________ 
+
+22/25 
+
+ 
+
+ Assegnare le segnalazioni per effettuare sopralluoghi ai tecnici incaricati; 
+
+ Assegnare una priorità alle segnalazioni; 
+
+ Redigere una relazione a seguito del sopralluogo con l’aggiunta di allegati (es. materiale fotografici, 
+
+stima economica dell’intervento, ecc.) 
+
+ Riportare gli eventuali costi dell’intervento da addebitare ai singoli proprietari dell’alloggio. 
+
+Una volta individuate le modalità di intervento dovrà essere possibile collegare l’attività di manutenzione a 
+
+tutti gli Atti decisionali e Protocolli coinvolti per seguire lo stato di esecuzione ed eventualmente aggiornare 
+
+il valore dell’immobile a seguito delle attività manutentive. 
+
+L’intera sezione dovrà essere raggiungibile anche dall’esterno permettendo ai tecnici che effettuano il 
+
+sopralluogo di raccogliere note o materiale utile alla valutazione direttamente in loco grazie all’ausilio di 
+
+tablet o smartphone. 
+
+20.5 Protezione antivirus  
+
+La sicurezza e la protezione antivirus sui server e sui singoli client viene assicurata con una soluzione 
+
+centralizzata. 
+
+20.6 Integrazione con altri sistemi informativi 
+
+La piattaforma dovrà essere integrata con il nuovo portale dell’Agenzia per la ricezione telematica di istanze 
+
+o segnalazioni da parte dell’utenza. 
+
+Ad ogni inquilino assegnatario dovranno essere consegnate delle credenziali d’accesso per collegarsi al nuovo 
+
+portale e avere accesso in tempo reale e autonomamente a tutte le informazioni che lo riguardano, ad 
+
+esempio: 
+
+ Informazioni anagrafiche 
+
+ Informazioni tecniche dell’alloggio  
+
+ Estratto Conto 
+
+ Comunicazioni 
+
+ Presentazione istanze 
+
+ Stato e storico delle istanze presentate  
+
+ ecc. 
+
+Dovranno essere inoltre create delle credenziali di tipo “Patronato” per permettere la gestione delle istanze 
+
+e delle segnalazioni da parte delle associazioni degli inquilini per gli assegnatari che ne faranno richiesta. 
+
+20.7 Documentale 
+
+Il modulo per la gestione Documentale dovrà permettere l’archiviazione e la consultazione dei documenti in 
+
+modo facile e immediato, permettendo di gestire poi l’intero processo di conservazione, con la garanzia del 
+
+pieno rispetto della normativa. 
+
+I documenti emessi tramite i vari moduli della piattaforma dovranno essere archiviati automaticamente nella 
+
+sezione Documentale e potranno essere consultati direttamente dalle applicazioni. I documenti esterni 
+
+potranno essere acquisiti anche da file system. 
+
+Il modulo dovrà permettere, inoltre di organizzare i documenti archiviati in fascicoli. I documenti presenti nel 
+
+fascicolo potranno inoltre essere importati da file system. 
+
+
+
+Capitolato Speciale d’Appalto – Affidamento della fornitura di un sistema informativo integrato e dei servizi 
+
+connessi alla gestione del CED dell’A.R.C.A. Nord Salento di Brindisi. 
+
+_________________________________________ 
+
+23/25 
+
+ 
+
+20.8 Conservazione sostitutiva 
+
+Partendo dalla gestione documentale, la soluzione dovrà gestire l’intero ciclo di conservazione, supportando 
+
+l’ente durante tutte le fasi del processo. Attraverso procedure automatiche e guidate dovrà essere possibile 
+
+selezionare facilmente i documenti da conservare, apponendo in modo massivo la firma digitale sui 
+
+documenti, generando il pacchetto di versamento e la firma del responsabile della conservazione. 
+
+La conservazione digitale dovrà essere effettuata in sede ovvero delegata a un soggetto esterno, abilitato da 
+
+Agid al quale sarà affidato l’intero processo di conservazione. 
+
+20.9 Servizi di conversione, assistenza e manutenzione  
+
+L’aggiudicataria si impegna a prestare un servizio di: recupero e conversione delle banche dati esistenti; 
+
+supporto all’avviamento; assistenza tecnica e manutenzione ordinaria di ciascuna area applicativa fornita, 
+
+per tutto il tempo necessario, a partire dalla data di attivazione del servizio.  
+
+Nell’offerta dovranno essere esplicitate con chiarezza le modalità di erogazione dei servizi. 
+
+Conseguentemente, l’impresa aggiudicataria dovrà correggere tempestivamente e integralmente a proprie 
+
+spese tutte le anomalie, errori e malfunzionamenti che dovessero verificarsi alla piattaforma ed 
+
+eventualmente ripristinare le funzionalità secondo le tempistiche previste nella realizzazione del progetto. 
+
+Restano esclusi soltanto gli interventi relativi a danni da attribuirsi ad evidente imperizia o negligenza del 
+
+personale operativo dell’Ente. Il servizio di assistenza tecnica e manutenzione dovrà essere svolto da 
+
+personale specializzato, addestrato presso l'azienda fornitrice del sistema e ad essa legato da rapporto di 
+
+dipendenza.  
+
+20.10 Recupero e conversione banche dati  
+
+Dovrà essere previsto il recupero completo delle banche dati elettroniche relative ai vecchi applicativi 
+
+utilizzati dall’Agenzia.  
+
+20.11 Copertura e presidio on site dei servizi 
+
+Considerato che il nuovo sistema informatico integrato (piattaforma) è uno degli elementi strategici che 
+
+l’ARCA Nord Salento ha individuato per la sua azione volta al completamento dello sviluppo dell’Agenzia 
+
+stessa nei prossimi anni, si richiede,  a carico della ditta aggiudicatrice, il presidio con almeno una unità fissa 
+
+giornaliera presso il CED dell’Agenzia che provvederà per tutto il periodo contrattuale ad affiancare il 
+
+personale per il corretto utilizzo della piattaforma in modo che alla fine dell’appalto il personale dell’Agenzia 
+
+possa essere indipendente all’utilizzo di tutto il sistema informativo. 
+
+Si rende necessario, altresì, il presidio giornaliero per una corretta gestione e sorveglianza di tutto il sistema 
+
+informatico dell’Agenzia per garantirlo sulla competenza del proprio personale che opera sul sistema per la 
+
+normale operatività e per garantire tempi di risposta adeguati, in caso di rilevamento / segnalazione di 
+
+anomalie, o tempestivi, per esempio in caso di blocco dei sistemi o terminazione imprevista degli applicativi. 
+
+L'appaltatore dovrà garantire l’Agenzia con adeguata copertura operativa con presidio sul posto, di personale 
+
+tecnico, in caso di eventi a carattere istituzionale che richieda l’uso del sistema informativo (corsi per il 
+
+personale, giornate di studio, iniziative varie dell’Agenzia, etc…).  
+
+In caso di urgenze a seguito di eventi naturali, anche di natura catastrofica, emergenze sanitarie o di ordine 
+
+pubblico che richiedano l’impiego del Sistema Informativo, l'appaltatore dovrà garantire l’Agenzia 
+
+dell’adeguata copertura operativa, con presidio sul posto di personale tecnico.  
+
+
+
+Capitolato Speciale d’Appalto – Affidamento della fornitura di un sistema informativo integrato e dei servizi 
+
+connessi alla gestione del CED dell’A.R.C.A. Nord Salento di Brindisi. 
+
+_________________________________________ 
+
+24/25 
+
+ 
+
+La Ditta appaltatrice individuerà un Referente/Capo Progetto responsabile e supervisore dell’appalto, quale 
+
+interfaccia di riferimento per l'Agenzia e responsabile della corretta esecuzione del contratto nel rispetto 
+
+degli impegni in esso contenuti e assunti dalla Ditta. 
+
+L’appaltatore è tenuto a comunicare all’Agenzia, prima della stipula del contratto, il nominativo dell’incaricati 
+
+al servizio. 
+
+L’Agenzia si riserva altresì la possibilità di ricusare con un preavviso di 30 giorni i tecnici incaricati 
+
+dall’appaltatore all’esecuzione del contratto per motivi di ordine tecnico e/o disciplinare. In tal caso 
+
+l’appaltatore dovrà nominare, entro 30 giorni dalla comunicazione da parte dell’Agenzia, un sostituto. 
+
+Durante il periodo la società fornirà comunque personale di supporto alle attività oggetto dell’appalto. 
+
+Art. 21. Requisiti generali della fornitura 
+Nei requisiti generali si riporta quanto deve essere comune a tutto il sistema. Tali requisiti saranno oggetto 
+
+di valutazione in fase di attribuzione di punteggio. 
+
+L’infrastruttura tecnologica deve assicurare i requisiti richiesti in termini di sicurezza informatica, disponibilità 
+
+del servizio e tempi di risposta. 
+
+Le componenti dovranno comunque utilizzare schemi standard per applicativi web based e tali che sulle 
+
+postazioni client non debba essere richiesta l’installazione di alcun specifico software necessario per il 
+
+funzionamento e la fruizione delle varie componenti della piattaforma, salvo quanto richiesto per gli 
+
+strumenti di firma elettronica o per eventuali driver per l’integrazione con dispositivi locali (es. scanner, 
+
+stampanti, ecc.). La piattaforma deve garantire la fruibilità mediante tutti i più diffusi browser presenti sul 
+
+mercato indipendentemente dalla versione. 
+
+La soluzione proposta deve garantire un’adeguata protezione di tutte le informazioni contenute e di tutte le 
+
+operazioni gestite in accordo alla normativa vigente. 
+
+La soluzione proposta dovrà essere disegnata per essere disponibile (online) H24 7x7 rispondendo agli SLA 
+
+che dovranno essere predisposti in sede di gara. 
+
+La soluzione dovrà essere strutturata per moduli, affinché tutte le informazioni siano rese automaticamente 
+
+disponibili tra i diversi moduli oltre che prevedere la massima rispondenza alle diverse esigenze di 
+
+interoperabilità. 
+
+Deve essere prevista la massima flessibilità della soluzione proposta in termini di scalabilità tecnologica al 
+
+fine di garantire il pronto e completo supporto sia agli aggiornamenti normativi sia di tipo funzionale e 
+
+dimensionale dovute alle mutate esigenze in termini di numero di utenti e di funzioni applicative. 
+
+21.1 Livelli di servizio richiesti 
+
+L’erogazione del servizio di manutenzione tecnica dovrà avvenire secondo i seguenti livelli di servizio: 
+
+1. nel caso di manutenzione correttiva di problemi bloccanti è richiesta la soluzione del problema entro 
+
+massimo 8 ore lavorative dall’avvenuta segnalazione; 
+
+2. nel caso di manutenzione correttiva per problemi non bloccanti è richiesta la soluzione del problema 
+
+entro massimo 5 giorni lavorativi dell’avvenuta segnalazione; 
+
+3. nel caso di manutenzione correttiva per problemi minori è richiesta la soluzione del problema entro 
+
+massimo 15 giorni lavorativi dall’avvenuta segnalazione. 
+
+Per “ore lavorative” si intende dalle ore 9 alle ore 18 di ogni giorno lavorativo. 
+
+Nella seguente tabella è riportata la descrizione dei livelli di severità dei problemi: 
+
+ 
+
+
+
+Capitolato Speciale d’Appalto – Affidamento della fornitura di un sistema informativo integrato e dei servizi 
+
+connessi alla gestione del CED dell’A.R.C.A. Nord Salento di Brindisi. 
+
+_________________________________________ 
+
+25/25 
+
+ 
+
+Severità Descrizione 
+
+Bloccante 
+
+Malfunzionamento grave che impedisce l’utilizzo di almeno una “funzionalità critica”, con 
+
+impatto bloccante su tutte le operazioni utente e sull’utilizzo del sistema; non è inoltre 
+
+possibile giungere al risultato finale utilizzando funzionalità alternative. 
+
+Non 
+
+Bloccante 
+
+Malfunzionamento che causa un degrado tollerabile di prestazione su una funzionalità, per 
+
+periodi limitati; non richiede un intervento urgente. 
+
+Minore 
+Errori di minor entità che non pregiudicano l’operatività di base e le funzionalità chiave del 
+
+sistema 
+
+21.2 Formazione del personale dell’Agenzia 
+
+L’Aggiudicatario dovrà erogare a propria cura e senza alcun onere aggiuntivo un percorso di formazione 
+
+dedicato, della durata minima di un anno a decorrere dalla implementazione della nuova piattaforma 
+
+completa e perfettamente funzionante, che dovrà essere svolto presso la sede e in date e orari concordati 
+
+con l’Agenzia e dovrà permettere agli operatori di raggiungere la completa padronanza degli strumenti 
+
+disponibili. 
+
+Si richiede la presentazione di una proposta dettagliata relativa all’attività di formazione, che descriva i tempi 
+
+e la metodologia adottata. 
+
+I corsi dovranno essere volti a trasferire il know-how agli utenti. La proposta dovrà prevedere corsi di tipo 
+
+teorico – pratico, diversificati sulla base dei ruoli e delle funzioni svolte dalle figure interessate. 
+
+21.3 Protezione dei dati personali 
+
+L’aggiudicatario ha la responsabilità della sicurezza delle informazioni (integrità, riservatezza e disponibilità) 
+
+dei dati e dei programmi affidati in gestione da A.R.C.A. Nord Salento e dovrà assicurare l’attivazione di tutte 
+
+le misure tecniche ed organizzative idonee ed adeguate al raggiungimento di tale obiettivo, tenendo in 
+
+special modo conto dei rischi che derivano in particolare dalla distruzione, dalla perdita, dalla modifica, dalla 
+
+divulgazione non autorizzata o comunque trattati, anche al fine di prevenire violazioni di dati personali. 
+
+L’aggiudicatario dovrà garantire che i servizi e l’eventuale trattamento di dati siano prestati in piena 
+
+conformità a quanto previsto dal Reg. UE 679/16 e dal Codice in materia di cui al D.Lgs. n. 196/2003 e 
+
+ss.mm.ii. L’aggiudicatario assumerà il ruolo di responsabile esterno del trattamento e di amministratore di 
+
+sistema ed avrà l’obbligo di agire in modo che il proprio personale incaricato di eseguire le prestazioni 
+
+contrattuali mantenga riservati i dati e le informazioni di cui venga in possesso, non li riveli senza ordine della 
+
+legittima Autorità, non li divulghi e non ne faccia oggetto di sfruttamento. 
+
+L’aggiudicatario dovrà, entro e non oltre 10 giorni dalla comunicazione dell’Agenzia dell’avvenuta 
+
+aggiudicazione, comunicare il nominativo del proprio Responsabile della protezione dei dati (RPD/DPO), del 
+
+Responsabile della Sicurezza delle informazioni e i curricula vitae dei tecnici informatici che opereranno 
+
+presso la sede, nonché del Referente/Capo progetto della gestione del contratto. 
+
+L’aggiudicatario non potrà conservare copia di dati e programmi dell’ARCA Nord Salento, né alcuna 
+
+documentazione inerente ad essi dopo la conclusione del contratto e sarà tenuto a restituirli o a metterli a 
+
+disposizione entro 10 giorni dalla chiusura del contratto. 
+
+ 
+
+
+</doc>

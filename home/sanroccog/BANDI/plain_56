@@ -1,0 +1,93 @@
+<doc id="56" url="?curid=56" title="C:\Users\lazya\Desktop\Tesi\Preprocess\bandi_cpv\7728902BB0\10_Allegato_2B__Questionario_Tecnico_dispositivi_e_lavori.xlsx" >Foglio1
+	Caratteristiche tecniche richieste del dispositivo			Riportare una breve descrizione con eventuale richiamo ad altri elaborati presenti nella busta tecnica
+	Architettura ed ergonomia del sistema	Struttura meccanica/stativi	Possibilità parcheggio arco laterale per uso monoplanare
+			Movimento di parcheggio dell’arco laterale automatico e/o manuale 
+			Escursione e velocità dei movimenti
+			Sistemi anticollisione
+			Possibilità scansione total-body (movimento combinato tavolo-arco)
+		Tavolo	Portata (dinamica e in posizione max estensione)
+			Dimensioni/escursioni/sbalzo libero
+			Trendelenburg
+			Radiotrasparenza (in mmAl eq)
+			Rotazione intorno al proprio asse
+		Interfaccia utente	Comandi liberamente posizionabili sui 3 lati del tavolo
+			Semplicità interfaccia touch-screen (da valutare sulla base delle immagini che le aziende dovranno fornire)
+	Generazioni raggi-x	GeneratorI	Potenza
+			mA e Kv
+			Sistema per la rilevazione e stampa della dose erogata e del DAP in modo dettagliato o sistema equivalente
+		Sorgenti radiogene	Adeguatezza macchie focali per scopia/grafia e potenza dissipabile
+			Numero di fuochi
+			Potenza per ogni fuoco
+			caratteristiche termiche
+			capacita' termica anodo (HU)
+			capacita' termica tubo+guaina (HU)
+			metodo di dissipazione
+			dissipazione termica anodica (HU/min)
+			dissipazione termica complesso radiogeno (HU/min)
+			rotazione su cuscinetti a sfera/sospensione idrodinamica
+			Collimatori automatici
+	Catena immagini	Detettori (AP e LL)	Dimensione dei detettori
+			matrice fisica
+			dimensione del pixel
+			risoluzione spaziale
+			DQE e MTF
+			Numero di campi di vista
+		Catena di acquisizione ed elaborazione	Matrice di acquisizione per ogni ingrandimento (1024/2048)
+			Matrice di elaborazione per ogni ingrandimento (1024/2048)
+			Funzioni di elaborazione immagini
+			N° immagini memorizzabili 
+		Monitor/Sistema di visualizzazione	Risoluzione display
+			Comandi integrati sul pannello di comando dell’angiografo
+			Mantenimento della risoluzione nativa del detettore
+			Gestione dinamica dei segnali video e possibilità di personalizzare i layout di visualizzazione 
+			Caratteristiche sospensione pensile (escursione, altezza regolabile)
+			Possibilità di visualizzazione delle sequenze acquisite in sala esame anche attraverso telecomando o sistema equivalente 
+	Software		Velocità acquisizione rotazionale (per riduzione artefatti e minor dose somministrata)
+			Funzionalità 3D (tempi e matrici di ricostruzione, analisi automatica di vasi e aneurismi, sincronizzazione con movimenti dell’arco)
+			Roadmapping 3D (mantenimento dell’allineamento durante il movimento dell’arco, compensazione automatica del movimento del tavolo)
+			Possibilità di fusione di immagini angiografiche con immagini provenienti da acquisizione TC/RM per ausilio a procedure interventistiche
+			Software simil-TC (tempi di acquisizione/ricostruzione e  numero proiezioni acquisite, possibilità di acquisizione con arco in posizione laterale) 
+			Presenza software per vertebroplastiche e funzionalità (possibilità di pianificazione anche su volumi importati da altre modalità, sovrapposizione immagine di scopia/volume 3D)
+			Ulteriori sw forniti
+	Accessori		Iniettore automatico del mdc con possibilità di montaggio sul tavolo di cateterismo del paziente
+			Monitoraggio dei parametri vitali (con tracce ECG, pressioni invasive e non, canale di temperatura, ecc) preferibilmente con rappresentazione video sullo schermo di esame
+			Stativo pensile porta utenze elettriche e gas medicali destinato ad alloggiare e sostenere le apparecchiature per anestesista dotato di braccio a snodo di circa 330° con possibilità di “parcheggio” remoto dall’angiografo, e sistema a sollevamento verticale elettrico con agganci per i respiratori delle marche più diffuse in commercio
+			Apparecchio per anestesia del tipo “a pensile” compatibile con lo stativo pensile descritto sopra. Il sistema di anestesia dovrà essere completo di tutto quanto serve per effettuare procedure di interventistica, in particolar modo neuro vascolare
+			Lampada scialitica LED da almeno 80.000 lux di tipo pensile con braccio articolato snodabile
+			Ecocolordoppler multidisciplinare ad elevatissime prestazioni, con sonde ad alta banda e multifrequenza di ultimissima tecnoclogia, ad elevata ergonomia, preferibilmente integrato in termini di modalità di visualizzazione, gestione e fusione delle immagini con quelle acquisite dal sistema e/o da altre modalità diagnostiche.
+	Strumentazioni complementari (sistemi per la riduzione della dose)		Dispositivi per la riduzione della dose
+			Filtrazioni spettrali
+			Selezione manuale dei filtri spettrali
+			Controllo di griglia o sistemi equivalenti
+			Livelli di scopia
+			Collimazione virtuale
+			Sistema di misura/visualizzazione/
+			Eventuali ulteriori sistemi avanzati di gestione della dose
+	Layout e caratteristiche tecniche dei manufatti, elementi di finitura e installazioni		Lay-out: criteri di sviluppo della sala angiografica e delle aree oggetto di cantiere, corrispondenza ai regolamenti e alla normativa vigente
+			Breve descrizione delle caratteristiche tecniche offerte per le opere edili
+			Breve descrizione delle caratteristiche tecniche offerte per le opere impiantistiche - Condizionamento
+			Breve descrizione delle caratteristiche tecniche offerte per le opere impiantistiche - Idrico-Sanitario
+			Breve descrizione delle caratteristiche tecniche offerte per le opere impiantistiche - Gas Medicinali
+			Breve descrizione delle caratteristiche tecniche offerte per le opere impiantistiche - Elettriche e speciali
+			Breve descrizione delle caratteristiche tecniche offerte per le opere impiantistiche - Dati e fonia
+	Diagramma di Gantt		Organizzazione dei lavori
+			Tempi necessari per l'esecuzione delle opere edili, impinatistiche e per la consegna, installazione e messa in funzione del sistema angiografico
+			Tempi di fermo attività sale operatorie 1, 2, 3 e 4
+			Tempi di fermo attività del servizio angiografico
+
+
+
+	Il presente modello dovrà essere firmato digitalmente dal Rappresentante legale della Ditta
+
+
+
+
+
+
+
+
+
+
+
+
+</doc>

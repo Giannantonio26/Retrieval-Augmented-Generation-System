@@ -1,0 +1,759 @@
+<doc id="53" url="?curid=53" title="C:\Users\lazya\Desktop\Tesi\Preprocess\bandi_cpv\7712047682\Relazione_tecnica_gara_CED.pdf" >
+Affidamento della fornitura di un sistema informativo integrato e dei servizi connessi alla gestione del 
+CED dell’A.R.C.A. Nord Salento di Brindisi. 
+_____________________________________________________________________________________ 
+
+1/9 
+ 
+
+RELAZIONE TECNICO – ILLUSTRATIVA 
+
+1 Premessa 
+La presente relazione riguarda “Affidamento della fornitura di un sistema informativo 
+
+integrato e dei servizi connessi alla gestione del CED dell’A.R.C.A. Nord Salento di 
+
+Brindisi per la durata di 6 anni”. Di seguito si illustrano sinteticamente i contenuti e le 
+
+caratteristiche prestazionali essenziali del sistema informativo integrato che l’A.R.C.A. Nord Salento 
+
+di Brindisi intende acquisire da operatore economico specializzato nel settore mediante gara 
+
+pubblica per l’implementazione di un sistema di gestione evoluto del proprio Centro di Elaborazione 
+
+Dati (CED) e dei servizi correlati alle attività istituzionali. 
+
+2 L’A.R.C.A. Nord Salento 
+L’Agenzia Regionale per la Casa e l’Abitare (A.R.C.A) Nord Salento (già “Istituto Autonomo per le 
+
+Case Popolari della Provincia di Brindisi” fondato il 14/10/1937 con un Regio Decreto n. 1837, poi 
+
+trasformato in A.R.C.A. Nord Salento con LEGGE REGIONALE 20 maggio 2014, n. 22) è un ente 
+
+regionale di diritto pubblico non economico dotato di autonomia organizzativa, patrimoniale, 
+
+finanziaria, contabile e tecnica. 
+
+Il patrimonio abitativo gestito è di circa 6.000 alloggi distribuiti nel capoluogo e nei 20 comuni della 
+
+Provincia di Brindisi. 
+
+2.1 Fini istituzionali 
+1. L’Agenzia agisce come operatore pubblico nel campo della edilizia residenziale pubblica e sociale, 
+
+svolgendo funzioni di promozione, realizzazione e gestione di servizi abitativi, in attuazione dei piani 
+
+e degli indirizzi regionali, svolgendo le seguenti attività: 
+
+a. gestione del patrimonio immobiliare di edilizia residenziale pubblica proprio e, su delega, degli 
+
+altri soggetti pubblici, favorendo l’autogestione dei servizi da parte dell’utenza; 
+
+b. interventi di manutenzione, recupero e riqualificazione degli immobili, ivi compresa la verifica 
+
+dell’osservanza delle norme contrattuali e dei regolamenti d’uso degli alloggi e delle parti comuni; 
+
+c. gestione dei servizi attinenti al soddisfacimento delle esigenze abitative delle persone e delle 
+
+famiglie; 
+
+d. prestazione di servizi agli assegnatari di alloggi di edilizia residenziale pubblica e di alloggi in 
+
+locazione. 
+
+2. Le Agenzie agiscono altresì come operatori pubblici nel campo dell’edilizia e dei piani e programmi 
+
+di rigenerazione urbana, comunque denominati, svolgendo le seguenti attività: 
+
+a. progettazione e attuazione di interventi di riqualificazione urbana, recupero edilizio e nuova 
+
+costruzione, urbanizzazione e infrastrutturazione, sia in esecuzione di piani e programmi regionali, 
+
+sia in affidamento con convenzione da altri enti, associazioni, privati; 
+
+b. predisposizione, anche con i comuni e altri soggetti interessati, di piani e programmi di 
+
+rigenerazione urbana, comunque denominati; 
+
+
+
+Affidamento della fornitura di un sistema informativo integrato e dei servizi connessi alla gestione del 
+CED dell’A.R.C.A. Nord Salento di Brindisi. 
+_____________________________________________________________________________________ 
+
+2/9 
+ 
+
+c. progettazione e attuazione dei piani e programmi di cui alla lettera b) anche per incarico di 
+
+soggetti pubblici e privati, consorzi di imprese e associazioni, società o altri enti che abbiano come 
+
+oggetto attività inerenti l’edilizia, nel rispetto delle norme vigenti; 
+
+d. progettazione e realizzazione, anche per incarico di altri soggetti pubblici e privati, di interventi 
+
+edilizi e urbanistici finalizzati a innalzare la qualità e quantità del patrimonio di edilizia residenziale 
+
+pubblica e sociale, anche mediante interventi innovativi e sperimentali per soluzioni urbanistiche e 
+
+architettoniche, materiali e tecnologie costruttive, soprattutto orientati al risparmio delle risorse e 
+
+alla sostenibilità dell’abitare; 
+
+e. promozione e offerta di alloggi in locazione temporanea o permanente; 
+
+f. gestione del patrimonio in proprietà e di quello eventualmente affidato da enti, associazioni, 
+
+privati, in forme e modalità che garantiscano qualità, efficienza ed economicità del servizio; 
+
+g. partecipazione, esclusivamente per lo svolgimento delle attività previste dai commi precedenti e 
+
+previa autorizzazione della Giunta regionale, a consorzi, società miste e ad altre forme di 
+
+raggruppamento temporaneo, nonché a fondi immobiliari, anche mediante conferimento di beni 
+
+mobili e immobili appartenenti al patrimonio disponibile. 
+
+3 Il sistema di gestione informatica attuale 
+Per svolgere le attività istituzionali sopra descritte, l’Agenzia è dotata di un centro elaborazione dati 
+
+che svolge le funzioni di seguito indicate: 
+
+3.1 Gestione del CED relativa al settore inquilinato Fornitura di servizi informatici a 
+
+supporto 
+ Dati tecnici alloggi 
+
+ Dati anagrafici inquilino 
+
+ Dati contabili: competenze, versamenti, estratti conto, rateizzazione di debiti 
+
+ Dati reddituali: anagrafica familiare e relativa situazione lavorativa, reddito familiare; 
+
+ Dati legali: occupazione abusiva, lettera di sfratto, ecc. 
+
+ Pratiche di assegnazione alloggi, cambi, volture, regolarizzazioni 
+
+ Associazione alloggio/inquilino: data e numero di delibera di assegnazione, cambio, voltura, 
+
+regolarizzazione. 
+
+ Elaborazione lettere da inviare agli inquilini accompagnate dai bollettini di deposito cauzionale e 
+
+canone oggettivo. 
+
+ Indicazione inquilini “pendenti”, cioè iter burocratico non completato. 
+
+ L’inquilino riceve varie lettere di comunicazione: lettera e bollettini per il nuovo anno solare, richiesta 
+
+biennale del reddito familiare, estratto conto annuale. 
+
+ Controllo sul reddito per la conferma del diritto ad usufruire dell’alloggio ERP 
+
+ Verifica a campione dei redditi autocertificati. 
+
+ Il settore inquilinato gestisce anche locali commerciali, alloggi a riscatto e alloggi destinati ai 
+
+dipendenti delle amministrazioni dello Stato. 
+
+3.2 Attività svolte. 
+ Inserimento dati tecnici: tipologia, ubicazione, demografia, conservazione, livello piano, vetustà e 
+
+superficie. Per i locali commerciali: superficie e tariffa; 
+
+ Inserimento dati anagrafici: nome, cognome, numero e data delibera, dati relativi alla registrazione del 
+
+
+
+Affidamento della fornitura di un sistema informativo integrato e dei servizi connessi alla gestione del 
+CED dell’A.R.C.A. Nord Salento di Brindisi. 
+_____________________________________________________________________________________ 
+
+3/9 
+ 
+
+contratto; 
+
+ Inserimento dati anagrafico/reddituali: nucleo familiare e situazione lavorativa di ogni componente, 
+
+dati reddituali di ogni componente; 
+
+ Inserimento dati contabili: canoni di locazione, deposito cauzionale, tassa di registrazione, conguaglio 
+
+canoni di locazione, morosità anni precedenti, versamenti effettuati (estrapolazione dei dati forniti 
+
+elettronicamente dalle Poste e inserimento degli stessi in apposita tabella del database), Vendita 
+
+alloggi, piani di rateizzazione per la vendita alloggi, piani di rateizzazione debiti; 
+
+ Procedure per l’assegnazione, cambio, scambio, subentro e regolarizzazione rapporto locativo; 
+
+ Procedure per la riduzione del canone di locazione: verifica reddituale su richiesta degli inquilini; 
+
+ Procedure per l’accertamento biennale del reddito 
+
+ Procedura per la verifica a campione dei redditi autocertificati; 
+
+ Inserimento indici Istat e costi base; 
+
+ Inserimento fasce di abbattimento reddituale; 
+
+ Calcolo canone mensile degli alloggi in locazione e dei locali commerciali; 
+
+ Stampe: bollettini (deposito cauzionale, canone oggettivo tassa di registrazione, canone soggettivo, 
+
+conguaglio canone, morosità maturata, dilazione debito, canone locali commerciali, dilazione 
+
+pagamento per alloggi venduti o a riscatto, recupero arretrati consumo acqua; lettere varie di 
+
+comunicazione, estratti conto, fatture agli inquilini locatari dei locali commerciali; 
+
+ Elaborazione e stampa di tutte le statistiche necessarie all’ARC; 
+
+ Copia giornaliera di backup per garantire la ripresa dell’attività lavorativa in maniera immediata in caso 
+
+di rottura del server o altre cause di forza maggiore (incendio, furto del server, ecc.). 
+
+3.3 Software 
+Software attualmente utilizzato è costituito da 3 livelli indipendenti: a) base dei dati; b) procedure; c) layer 
+
+accesso dati. 
+
+a) Base di dati: basato su MS SQL Server; 
+
+b) Procedure: calcolo canone di locazione alloggi ERP, calcolo canone di locazione alloggi per i dipendenti 
+
+delle Amministrazioni dello Stato, calcolo canone locali commerciali, calcolo morosità. Le procedure si 
+
+modificano con il cambio delle normative. 
+
+c) Layer accesso dati: implementazione delle librerie dati con operazioni CRUD. L’astrazione del layer 
+
+permette di cambiare la tecnologia della base dati senza dover cambiare tutta l’applicazione. 
+
+d) Software “SEP v. 4.4.12.1” della Parsec 3.26 per la gestione della posta esterna ed interna, protocollo, 
+
+atti decisionali, scrivania virtuale, archivio, albo pretorio on line; 
+
+e) Software “JSIBAC” della Parsec 3.26 per la ragioneria (contabilità finanziaria, bilancio armonizzato, 
+
+economato e patrimonio (inventario)) e per il personale (gestione economica, gestione giuridica, 
+
+gestione presenze); 
+
+f) N.15 indirizzi pec 
+
+Il software prevede di poter effettuare le stampe dei dati che interessano i dipendenti. 
+
+3.4 Soluzioni in materia di e-government 
+Aggiornamento, manutenzione e gestione del portale internet dell’ARCA www.arcanorsalento.it ed il 
+
+mantenimento del dominio di posta elettronica e di PEC. Contiene: 
+
+ Organigramma e articolazione degli uffici, responsabili singoli uffici, ecc..; 
+
+ Ufficio relazioni con il pubblico (URP); 
+
+ Programma triennale per la trasparenza e l’integrità ed il relativo stato di attuazione; 
+
+ Amministrazione trasparente; 
+
+http://www.arcanorsalento.it/
+
+
+Affidamento della fornitura di un sistema informativo integrato e dei servizi connessi alla gestione del 
+CED dell’A.R.C.A. Nord Salento di Brindisi. 
+_____________________________________________________________________________________ 
+
+4/9 
+ 
+
+ Servizio di fatturazione elettronica; 
+
+ Piano e relazione sulla performance; 
+
+ Comitato Unico di Garanzia 
+
+ Ammontare complessivo premi collegati alla performance; 
+
+ Nominativi e curricula OIV; 
+
+ Nominativi e curricula dirigenti e titolari di P.O.: 
+
+ Retribuzioni dirigenti; 
+
+ Retribuzioni e curricula di coloro che rivestono cariche politiche; 
+
+ Incarichi, retribuiti e non retribuiti, conferiti ai dipendenti pubblici; 
+
+ Tassi di assenza e di maggiore presenza; 
+
+ Ruolo dirigenti; 
+
+ Codice disciplinare; 
+
+ Contratti integrativi; 
+
+ Contrattazione nazionale; 
+
+ Elenco tipologie procedimento; 
+
+ Nome responsabile P.O. e adempimenti procedimentali; 
+
+ Elenco caselle di posta elettronica; 
+
+ Elenco PEC; 
+
+ Pubblicazioni, messaggi di informazione e di comunicazione; 
+
+ Elenco bandi di concorso; 
+
+ Elenco bandi di gara; 
+
+ Pubblicità legale (Albo pretorio on line); 
+
+ Elenco servizi forniti in rete; 
+
+ Elenco servizi di futura attivazione; 
+
+ Privacy 
+
+ Modulo “Whistleblowing” 
+
+ ecc.. vedi portale www.arcanordasalento.it 
+
+Il portale è costituito da una architettura a 3 livelli: 
+
+ Livello di presentazione (Presentation Logic Tier) costituisce il Front Office, ospita il portale e la 
+
+piattaforma di content management (webserver):  
+
+ Livello della logica applicativa (Business Logic Tier) contiene le regole per l’elaborazione delle 
+
+informazioni, costituisce l’Application Server ed è realizzato mediante software di supporto; 
+
+ Livello dei dati (Data Tier) su data server (MySql Server) 
+
+3.5 Software di ambiente e sviluppo 
+SO: linux; Server web: Apache; PHP; MySQL 
+
+3.6 Servizio di help desk 
+Servizi erogati dalle 9.00 alle 14.00 tutti i giorni dal lunedì al venerdì. Il lunedì i servizi sono erogati fino alle 
+
+18.00: 
+
+- Supporto in fase di gestione del “Sistema informativo dell’inquilinato”; 
+
+- Utilizzo della tecnologia collaborativa; 
+
+- Reportistica; 
+
+- Mantenimento e aggiornamento; 
+
+ 
+
+http://www.arcanordasalento.it/
+
+
+Affidamento della fornitura di un sistema informativo integrato e dei servizi connessi alla gestione del 
+CED dell’A.R.C.A. Nord Salento di Brindisi. 
+_____________________________________________________________________________________ 
+
+5/9 
+ 
+
+3.7 Piano di manutenzione e servizio di assistenza 
+Servizio di manutenzione correttiva per ogni componente del sistema, l’assistenza tecnica e 
+
+l’aggiornamento software 
+
+3.8 Piano di assistenza 
+Servizi progettati al fine di garantire il continuo e corretto funzionamento del sistema e di contribuire 
+
+alla formazione ed alla autonomia della struttura dell’Amministrazione per la successiva gestione del 
+
+sistema. L’assistenza comprende: supporto tecnico e manutenzione del software applicativo; 
+
+3.9 Servizio di assistenza hardware, software di base e sistemistica 
+Verifica del funzionamento di tutta la struttura informatica dell’ARCA (poco meno di 40 computer tra 
+
+client e server, oltre a varie stampanti e scanner, rete lan, sistema operativo, software di office 
+
+automation, antivirus). Costi relativi alla sostituzione di parti hardware e all’acquisto di licenze 
+
+software sono a carico dell’Ente. 
+
+3.10 Struttura 
+- Server con Win Server std 2008 con funzionalità di: application server, server data base, file server 
+
+e server di stampa, controller di dominio, server dns, server wins, terminal server, servizi directory, 
+
+server DHCP; 
+
+- Proxy / Firewall server con Win Server std 2008 con funzionalità di: firewall, proxy, supporto per 
+
+reti VPN, filtri a livello di applicazione, caching web e proxy web, protezione della rete da attacchi 
+
+utilizzando “Stateful Inspection”, monitoraggio e reporting delle connessioni, dettaglio del traffico 
+
+giornaliero / periodico, traffico raggruppato per periodo, traffico diviso per porta di destinazione e 
+
+sorgente, traffico diviso per IP di destinazione e sorgente. 
+
+- Security Farm (Server Dell t110 già in possesso dell’ARCA) con funzionalità di: server antivirus, 
+
+server centralizzato per la gestione di tutti i client, schedulazione per le operazioni di Scansione dei 
+
+Client, scansione dei programmi prima dell’installazione, rimozione virus, worm e trojan horse, 
+
+scansione messaggi di posta elettronica in entrata e in uscita, scansione di spyware e minacce non 
+
+virali quali adware, scansione degli archivi di file compressi prima che vengano aperti, avvisi 
+
+mediante email. 
+
+- Server WSUS (Windows Server Update Services) su Server Dell t110 con funzionalità di: eseguire in 
+
+maniera automatica durante le ore notturne un salvataggio di tutti i dati, eseguire dopo il 
+
+salvataggio notturno una copia dei dati sul disco esterno di rete 
+
+- Anagrafica di sistema: software che gestisce il registro dei beni; 
+
+- Servizio di help on line; 
+
+- Servizio di pronto intervento; 
+
+- Servizio di assistenza sistemistica; 
+
+- Realizzazione e fornitura dei file log e relazione tecnica (cadenza semestrale); 
+
+- Descrizione dello stato di configurazione dei server; 
+
+- Descrizione sullo stato della rete; 
+
+- Descrizione dello stato di configurazione di Active Directory; 
+
+- Descrizione sullo stato dei Firewall / Proxy; 
+
+- Descrizione sullo stato del sistema di aggiornamento dei client (WSUS); 
+
+- Descrizione sullo stato del sistema antivirus; 
+
+- Descrizione dei sistemi di backup e della loro pianificazione 
+
+3.11 Altri servizi utilizzati 
+ Software della contabilità. La procedura “Bilancio” consente la gestione completa degli adempimenti 
+
+finanziari dell’ARCA. Composta da una serie di programmi correlati tra loro: bilancio di previsione, 
+
+
+
+Affidamento della fornitura di un sistema informativo integrato e dei servizi connessi alla gestione del 
+CED dell’A.R.C.A. Nord Salento di Brindisi. 
+_____________________________________________________________________________________ 
+
+6/9 
+ 
+
+gestione bilancio corrente, contabilità IVA, contabilità IRPEF, contabilità generale, contabilità analitica, 
+
+gestione tesoreria. Detto software dialoga con un software dedicato all’”area personale”; 
+
+ Gestione economica del personale: procedura per l’automazione degli adempimenti connessi alla 
+
+gestione economica del personale dipendente, nonché quelli connessi alla liquidazione degli 
+
+emolumenti ai liberi professionisti (collaboratori coordinati e continuativi) ed ai pubblici amministratori. 
+
+Oltre agli adempimenti mensili, la procedura gestisce gli adempimenti di tipo trasversale dell’Ente, quali, 
+
+ad esempio, quelli previsti nei confronti dell’Ufficio Ragioneria. La procedura è collegata con la 
+
+procedura Contabilità finanziaria-economico-patrimoniale e con le procedure Gestione Giuridica e 
+
+Rilevazione delle Presenze. 
+
+ Contabilità IRPEF: la gestione economica del personale riversa nel software di contabilità finanziaria i 
+
+dati e con i dati presenti della contabilità e relativi ai mandati di pagamento effettuati a favore di 
+
+percettori di reddito, il software consente di effettuare: riepiloghi per codice tributo, riepiloghi per tipo 
+
+ritenuta, riepilogo per creditori, stampa della certificazione fiscale per redditi da lavoro autonomo, 
+
+stampa modelli CUD per redditi assimilati al lavoro dipendente, generazione mandati per versamento 
+
+ritenute d’acconto, gestione modelli F24 ed F24-EP con produzione file per trasmissione telematica. 
+
+ Gestione Giuridica e Pianta Organica: procedura finalizzata alla gestione completa e integrata delle 
+
+informazioni relative allo stato giuridico del personale, cioè lo “Stato matricolare” del dipendente. Il 
+
+pacchetto consente la gestione e l’archiviazione dei provvedimenti che interessano la carriera del 
+
+dipendente, partendo dalle informazioni anagrafiche, amministrative e giuridiche del personale dal 
+
+momento dell’assunzione al momento della sua messa a riposo (cambio di ruolo/qualifica/profilo, ecc.), 
+
+attraverso l’applicazione di contratti, posizioni giuridiche storiche, provvedimenti vari. È gestita la 
+
+certificazione automatica sullo stato di servizio e la gestione della Pianta Organica. L’applicativo è 
+
+integrato con la Gestione economica del Dipendente e con la Gestione delle Presenze. 
+
+ Gestione della rilevazione delle presenze: la procedura è finalizzata alla gestione completa ed integrata 
+
+delle informazioni relative alla rilevazione delle presenze del personale. Il pacchetto consente 
+
+l’acquisizione, la gestione e l’archiviazione delle timbrature. Comprende la gestione e l’archiviazione del 
+
+calcolo delle presenze sulla base del confronto delle timbrature con le assenze e con l’orario di lavoro. 
+
+L’applicativo è integrato con la Gestione Giuridica del Dipendente e con la Gestione economica del 
+
+personale. La società ha fornito un lettore per la rivelazione delle presenze che si interfaccia con il 
+
+software dell’area personale. 
+
+ Piattaforma per la effettuazione di gare di appalto telematiche e la gestione degli albi dei fornitori e dei 
+
+professionisti di fiducia 
+
+4 Il nuovo sistema di gestione informatica 
+Gli obiettivi che l’ARCA Nord Salento si prefigge con il presente appalto sono il raggiungimento di standard 
+
+prestazionali più elevati e l’incremento per gli utenti interni ed esterni della percezione di affidabilità, 
+
+efficacia ed efficienza dei servizi, che rappresentano per l’Agenzia i principali obiettivi nel disporsi 
+
+all’affidamento in appalto dei servizi informatici specificati nel Capitolato d’appalto. Al pari è l’obiettivo di 
+
+assicurare i più evoluti presidi di protezione e le più evolute modalità di valorizzazione al patrimonio di 
+
+informazioni detenute dall’Ente, atteso che esso rappresenta – oltre che una cospicua ricchezza in termini 
+
+economici – una decisiva condizione di efficacia delle politiche pubbliche presenti e future. 
+
+Gli obiettivi generali da parte dell’ARCA Nord Salento possono quindi essere sintetizzati rispetto a: 
+
+ la gestione strategica del sistema informativo e dell’evoluzione dei servizi; 
+
+ l’abbattimento dei costi e la presenza di costi certi; 
+
+ il miglioramento evolutivo del sistema informativo; 
+
+ la qualità e integrazione delle applicazioni; 
+
+
+
+Affidamento della fornitura di un sistema informativo integrato e dei servizi connessi alla gestione del 
+CED dell’A.R.C.A. Nord Salento di Brindisi. 
+_____________________________________________________________________________________ 
+
+7/9 
+ 
+
+ il monitoraggio e la valutazione costante del sistema informativo; 
+
+ la gestione sistemica degli aspetti relativi alla sicurezza e alla privacy; 
+
+ la gestione immediata delle emergenze e delle criticità; 
+
+ l'archiviazione e la conservazione dei dati e dei programmi e gestione della continuità operativa. 
+
+I servizi, connessi alla gestione del CED, hanno la finalità principale di garantire il supporto tecnico all’Agenzia 
+
+per la corretta gestione dei sistemi hardware e software presenti ed il supporto progettuale per l’evoluzione 
+
+del sistema nonché la risoluzione delle principali problematiche di carattere informatico dell’Agenzia. 
+
+L’impresa appaltatrice dovrà coordinare tutte le attività gestionali del CED attraverso la messa a disposizione 
+
+di software e staff specializzato con comprovata esperienza in materia di servizi all’inquilinato, al patrimonio 
+
+immobiliare residenziale pubblico ed alla Pubblica Amministrazione in generale. 
+
+In particolare l’appaltatore, al fine del raggiungimento degli obiettivi dell'Agenzia, dovrà garantire la fornitura 
+
+e l’espletamento delle seguenti attività oltre a quant'altro indicato nel presente capitolato: 
+
+a) Fornitura in uso di un software integrato atto alla gestione informatizzata del: 
+
+ Portale internet istituzionale dell’Agenzia; 
+
+ Protocollo Informatico; 
+
+ Atti Decisionali; 
+
+ Ragioneria; 
+
+ Personale; 
+
+ Inquilinato; 
+
+ Patrimonio / Manutenzioni; 
+
+ Documentale e Conservazione Sostitutiva. 
+
+Questo progetto darà vita ad una struttura organizzativa e tecnologica, in grado di dare più efficienza 
+
+all’azione amministrativa e di conseguenza erogare più servizi all’utenza. 
+
+L’intera fornitura dovrà risultare conforme ai requisiti descritti nel presente documento. Il concorrente dovrà 
+
+descrivere dettagliatamente, nella propria Offerta Tecnica, le caratteristiche dei software ed annessi servizi, 
+
+nel rispetto dei requisiti illustrati. 
+
+Il concorrente dovrà inoltre prevedere e descrivere qualunque altro elemento di espandibilità dei software 
+
+ritenga necessario per il dimensionamento dell’offerta tecnica, comprese eventuali caratteristiche 
+
+migliorative purché inerenti alle funzionalità richieste. 
+
+In estrema sintesi il nuovo sistema di gestione informatico dovrà essere costituito da un’unica piattaforma 
+
+integrata capace di assolvere agli adempimenti di tutti i settori di attività dell’Agenzia, con accessi 
+
+differenziati in base agli ambiti di competenza operanti su un’unica banca dati. Il sistema inoltre dovrà 
+
+essere in grado di importare e rendere fruibili le informazioni provenienti da banche dati esterne messe a 
+
+disposizione da altri enti istituzionali (Agenzia delle Entrate, Agenzia del Territorio, INPS, INAIL, ecc.). 
+
+Per questa Agenzia riveste un’importanza strategica avere una gestione “dinamica” delle informazioni 
+
+inerenti il patrimonio immobiliare e l’anagrafica degli assegnatari, che dovranno essere continuamente 
+
+confrontati con i dati messi a disposizione dagli altri enti istituzionali, al fine di conseguire un alto livello di 
+
+automazione dei procedimenti di accertamento dei canoni e delle morosità, della verifica del 
+
+mantenimento dei requisiti reddituali di assegnazione di ciascun inquilino, secondo le norme vigenti in 
+
+materia. 
+
+
+
+Affidamento della fornitura di un sistema informativo integrato e dei servizi connessi alla gestione del 
+CED dell’A.R.C.A. Nord Salento di Brindisi. 
+_____________________________________________________________________________________ 
+
+8/9 
+ 
+
+ 
+
+b) Gestione operativa del centro elaborazione dati: 
+
+ help desk agli uffici sia telefonico che informatico (assistenza hardware e software di base); 
+
+ monitoraggio del sistema; 
+
+ gestione delle postazioni di lavoro con aggiunta, rimozione ed aggiornamento;  
+
+ proposta di soluzioni in materia di e-government; 
+
+ attività standard di configurazione ed aggiornamento periodico del sistema; 
+
+ assistenza al personale in servizio per tutto ciò che riguarda l’informatizzazione dell’Agenzia, 
+
+concretizzata con la presenza quotidiana, a proprio carico, di una unità lavorativa presso la sede 
+
+dell’Arca Nord Salento. 
+
+ adeguamento del sistema informatico, ed assistenza in tale fase all’Agenzia in particolare per quanto 
+
+concerne: 
+
+ Amministrazione Trasparente 
+
+ Anticorruzione 
+
+ Conservazione Sostitutiva 
+
+ Fatturazione Elettronica 
+
+ Infrastrutture smart 
+
+ Disaster Recovery 
+
+c) percorso di formazione dedicato, della durata di un anno, che dovrà permettere agli operatori di 
+
+raggiungere la completa padronanza degli strumenti disponibili. 
+
+ 
+
+É prevista la seguente scadenza intermedia: 
+
+
+
+Affidamento della fornitura di un sistema informativo integrato e dei servizi connessi alla gestione del 
+CED dell’A.R.C.A. Nord Salento di Brindisi. 
+_____________________________________________________________________________________ 
+
+9/9 
+ 
+
+- l’Appaltatore dovrà fornire il nuovo sistema informatico completo di tutti i servizi richiesti, operativo e 
+
+funzionante, entro 6 mesi naturali e consecutivi dalla data del verbale di consegna; 
+
+5 Quadro economico. 
+Di seguito il quadro economico dell’appalto di cui trattasi. 
+
+Descrizione della fornitura/servizio (6 anni) Importo 
+
+- Portale internet istituzionale  € 7.500,00  
+
+- Protocollo informatico, atti decisionali e gestione 
+documentale  € 27.500,00  
+
+- Ragioniera  € 27.500,00  
+
+- Personale  € 27.500,00  
+
+- Inquilinato  € 37.500,00  
+
+- Patrimonio e manutenzione  € 37.500,00  
+
+- Predisposizione Conservazione documentale e 
+sostitutiva a norma  € 25.000,00  
+
+- Gestione sistemistica e antivirus  € 190.000,00  
+
+- Supporto applicativo  € 90.000,00  
+
+Totale forniture/servizi  € 470.000,00  
+
+  
+
+Somme a disposizione  
+IVA Al 22%  € 103.400,00  
+
+Commissione giudicatrice  € 3.600,00  
+
+Contributo ANAC  € 375,00  
+
+Imprevisti  € 13.225,00  
+
+Incentivo ex art. 113 del D.lgs. n. 50/2016  € 9.400,00  
+
+   
+
+Totale somme a disposizione  € 130.000,00  
+
+  
+
+TOTALE GENERALE  € 600.000,00  
+ 
+
+Brindisi, febbraio 2019 
+
+IL RUP 
+
+Ing. Amilcare Licastro 
+
+
+</doc>
