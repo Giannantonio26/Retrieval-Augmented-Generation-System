@@ -1,0 +1,8 @@
+accelerate
+bitsandbytes
+huggingface
+llama-index
+llama-index-vector-stores-pinecone
+llama_index-llms-huggingface
+llama-index-embeddings-huggingface
+transformers
